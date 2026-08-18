@@ -1,0 +1,2291 @@
+ID,Name,Level
+100,Kecoon,6
+101,Kecoon Scout,20
+102,Kecoon Fighter,13
+103,Kecoon Raider,15
+104,Kecoon Exile,6
+105,Kecoon Warrior,16
+106,Kecoon Sorcerer,19
+107,Kecoon Shaman,14
+108,Kecoon Bone Collector,15
+109,Kecoon Captain,22
+111,Kekurikekukaka,55
+112,Kecoon Captain,22
+113,Kecoon Mage,31
+114,Kecoon Berserker,31
+115,Kecoon Dragoon,47
+116,Kekurikekukaka,55
+117,Kekurikekukaka,55
+150,Kecoon,6
+151,Kecoon Scout,20
+152,Kecoon Fighter,13
+153,Kecoon Raider,15
+154,Kecoon Exile,6
+155,Kecoon Warrior,16
+156,Kecoon Sorcerer,19
+157,Kecoon Shaman,14
+158,Kecoon Bone Collector,15
+159,Kecoon Captain,22
+161,Kekurikekukaka,55
+200,Bulcan,13
+201,Wild Bulcan,14
+202,Bulky Bulcan,15
+203,Giant Bulcan,19
+204,Bulture,21
+205,Small Bulcan,18
+206,Keilan,38
+207,Silan,27
+250,Bulcan,13
+251,Wild Bulcan,14
+252,Bulky Bulcan,15
+253,Giant Bulcan,19
+254,Bulture,21
+255,Small Bulcan,18
+256,Keilan,38
+257,Silan,27
+266,Keilan,38
+271,Lutterslan,47
+300,Gavolt,16
+301,Giant Gavolt,20
+302,Fury Gavolt,22
+303,Spoiler,30
+304,Gloomwing,25
+350,Gavolt,16
+351,Giant Gavolt,20
+352,Fury Gavolt,22
+353,Spoiler,30
+354,Gloomwing,25
+363,Spoiler,30
+364,Gloomwing,25
+400,Glyptodon,43
+401,Ganesa,45
+402,Stegodon,45
+403,Mastodon,52
+404,Megarodon,48
+405,Glyptodon,43
+406,Ganesa,45
+407,Stegodon,47
+408,Mastodon,45
+410,Glyptodon,43
+450,Glyptodon,43
+451,Ganesa,45
+452,Stegodon,45
+453,Mastodon,52
+454,Megarodon,48
+460,Glyptodon,43
+500,Werewolf,24
+501,Lycan,35
+502,Loup-Garou,37
+503,Shadow Seeker,44
+504,Dark Eyes,35
+505,Dire Wolf,39
+506,Lobo,69
+507,Lupus,70
+508,Lycaon,71
+509,Shadow Seeker,40
+510,Dark Eyes,35
+511,Watcher,50
+512,Blood Seeker,49
+513,Lobo,69
+514,Lupus,69
+515,Lycaon,71
+516,Lobo,69
+517,Lupus,69
+518,Lycaon,71
+530,Werewolf,24
+531,Lycan,35
+532,Loup-Garou,35
+533,Shadow Seeker,44
+534,Dark Eyes,35
+535,Dire Wolf,39
+550,Werewolf,24
+551,Lycan,35
+552,Loup-Garou,37
+553,Shadow Seeker,44
+554,Dark Eyes,35
+555,Dire Wolf,39
+556,Lobo,69
+557,Lupus,69
+558,Lycaon,71
+600,Smilodon,39
+602,Wild Smilodon,42
+603,Sabertooth,43
+604,Machirodus,43
+605,Megantereon,45
+607,Berk,71
+608,Barkira,79
+609,Sabertooth,41
+610,Machirodus,43
+611,Megantereon,47
+612,Beast,47
+613,Bloodon,60
+614,Smilda,32
+615,Bloodon,32
+616,Hell Hound,57
+617,Berk,71
+618,Barkira,79
+619,Berk,71
+620,Barkira,79
+650,Smilodon,39
+652,Wild Smilodon,42
+653,Sabertooth,43
+654,Machirodus,43
+655,Megantereon,45
+657,Berk,71
+658,Barkira,79
+664,Smilda,32
+666,Hell Hound,57
+670,Smilodon,39
+672,Wild Smilodon,42
+700,Worm,1
+701,Earth Worm,2
+702,Blood Worm,4
+704,Carrion Crawler,7
+705,Snatcher,8
+750,Worm,1
+751,Earth Worm,2
+752,Blood Worm,4
+754,Carrion Crawler,7
+755,Snatcher,8
+800,Bandicoot,2
+801,Wild Bandicoot,7
+802,Scavenger Bandicoot,8
+803,Rabid Bandicoot,18
+804,Cannibal Bandicoot,12
+805,Small Bandicoot,1
+806,Panzer Bin,40
+850,Bandicoot,2
+851,Wild Bandicoot,7
+852,Scavenger Bandicoot,8
+853,Rabid Bandicoot,18
+854,Cannibal Bandicoot,12
+855,Small Bandicoot,1
+856,Panzer Bin,40
+871,Solid Bin,43
+900,Scorpion,31
+902,Striper,31
+903,Pincer,33
+904,Paralyzer,38
+905,Stinger,34
+906,Antares,69
+907,Shaula,82
+908,Lesath,82
+909,Striper,47
+910,Pincer,34
+911,Paralyzer,39
+912,Stinger,41
+913,Killer Beatle,29
+914,Shaula,82
+915,Antares,69
+916,Shaula,82
+917,Lesath,82
+918,Antares,69
+919,Shaula,82
+920,Lesath,82
+950,Scorpion,31
+952,Striper,31
+953,Pincer,33
+954,Paralyzer,38
+955,Stinger,34
+956,Antares,69
+957,Shaula,82
+958,Lesath,82
+959,Antares,69
+963,Killer Beatle,29
+970,Scorpion,31
+973,Pincer,33
+974,Paralyzer,38
+1000,Zombie,29
+1001,Decayed Zombie,28
+1002,Battalion,50
+1003,Rotten Eyes,35
+1004,Undying,40
+1005,Hyde,70
+1006,Hyde,70
+1007,Hyde,70
+1008,Hyde,70
+1050,Zombie,29
+1051,Decayed Zombie,28
+1052,Battalion,50
+1053,Rotten Eyes,35
+1054,Undying,40
+1055,Hyde,70
+1056,Battalion,50
+1057,Rotten Eyes,35
+1058,Undying,40
+1100,Skeleton,30
+1101,Skeleton Warrior,35
+1102,Skeleton Knight,36
+1103,Skeleton Champion,39
+1104,Death Knight,45
+1105,Skeleton Lord,71
+1106,Bone Collecter,79
+1107,Dragon Tooth,83
+1108,Skeleton Warrior,35
+1109,Skeleton Knight,36
+1110,Skeleton Champion,43
+1111,Death Knight,49
+1112,Death Knight,45
+1113,Ash Knight,54
+1114,Dragon Tooth Knight,58
+1115,Bone Collecter,79
+1116,Dragon Tooth,83
+1117,Bone Collecter,79
+1118,Dragon Tooth,83
+1150,Skeleton,30
+1151,Skeleton Warrior,35
+1152,Skeleton Knight,36
+1153,Skeleton Champion,39
+1154,Death Knight,45
+1155,Skeleton Lord,71
+1156,Bone Collecter,79
+1157,Dragon Tooth,83
+1162,Death Knight,45
+1163,Ash Knight,54
+1164,Dragon Tooth Knight,58
+1171,Shadow,54
+1180,Skeleton,30
+1200,Scolar,50
+1201,Sheriff,47
+1202,Laird,49
+1203,Baron,51
+1204,Cardinal,48
+1205,Duke,71
+1206,Bach,80
+1207,Bishop,80
+1208,Sheriff,50
+1209,Laird,48
+1210,Baron,51
+1211,Cardinal,48
+1212,Duke,71
+1213,Bach,80
+1214,Bishop,80
+1215,Duke,71
+1216,Bach,80
+1217,Bishop,80
+1250,Scolar,50
+1251,Sheriff,47
+1252,Laird,49
+1253,Baron,51
+1254,Cardinal,48
+1255,Duke,70
+1256,Bach,80
+1257,Bishop,80
+1271,Phantom,48
+1272,Phantom,48
+1300,Konga,54
+1301,Gaunga,56
+1302,Garuna,58
+1303,Haunga,57
+1304,Harunga,60
+1305,Javana,80
+1306,Samma,86
+1307,Konga,54
+1308,Gaunga,58
+1309,Garuna,57
+1310,Haunga,58
+1311,Riote,78
+1312,Haunga Warrior,58
+1315,Samma,86
+1316,Javana,80
+1317,Samma,86
+1318,Javana,80
+1319,Samma,86
+1350,Konga,54
+1351,Gaunga,56
+1352,Garuna,58
+1353,Haunga,57
+1354,Harunga,60
+1355,Javana,80
+1356,Samma,86
+1362,Haunga Warrior,58
+1400,Attila,85
+1401,Aker,85
+1402,Atross,85
+1403,Attila,85
+1404,Attila,85
+1450,Attila,85
+1501,Mins,9
+1502,Mins,9
+1503,Mins,9
+1504,Mins,9
+1505,Juks,9
+1506,Juks,9
+1507,Juks,9
+1508,Juks,9
+1509,Juks,9
+1601,Orc,10
+1602,Orc,10
+1603,Orc,10
+1604,Orc,10
+1605,Orc,10
+1606,Orc Mage,58
+1607,Orc Mage,58
+1608,Orc Mage,58
+1609,Orc Mage,58
+1610,Orc Mage,58
+1611,Orc Wizard,58
+1612,Orc Wizard,58
+1613,Orc Wizard,58
+1614,Orc Wizard,58
+1615,Orc Wizard,58
+1616,Orc Magician,58
+1617,Orc Magician,58
+1618,Orc Magician,58
+1619,Orc Magician,58
+1620,Orc Magician,58
+1621,Orc Alchemist,58
+1622,Orc Alchemist,58
+1623,Orc Alchemist,58
+1624,Orc Alchemist,58
+1625,Orc Alchemist,58
+1626,Orc Shaman,62
+1627,Orc Shaman,62
+1628,Orc Shaman,62
+1629,Orc Shaman,62
+1630,Orc Shaman,62
+1631,Orc Rogue,65
+1632,Orc Rogue,65
+1633,Orc Rogue,65
+1634,Orc Rogue,65
+1635,Orc Rogue,65
+1636,Orc Warrior,73
+1637,Orc Warrior,73
+1638,Orc Warrior,73
+1639,Orc Warrior,73
+1640,Orc Warrior,73
+1641,Orc Mage,58
+1642,Orc Mage,58
+1643,Orc Mage,58
+1644,Orc Mage,58
+1645,Orc Mage,58
+1646,Orc Wizard,58
+1647,Orc Wizard,58
+1648,Orc Wizard,58
+1649,Orc Wizard,58
+1650,Orc Wizard,58
+1651,Orc Magician,58
+1652,Orc Magician,58
+1653,Orc Magician,58
+1654,Orc Magician,58
+1655,Orc Magician,58
+1656,Orc Alchemist,58
+1657,Orc Alchemist,58
+1658,Orc Alchemist,58
+1659,Orc Alchemist,58
+1660,Orc Alchemist,58
+1661,Orc Shaman,62
+1662,Orc Shaman,62
+1663,Orc Shaman,62
+1664,Orc Shaman,62
+1665,Orc Shaman,62
+1666,Orc Rogue,65
+1667,Orc Rogue,65
+1668,Orc Rogue,65
+1669,Orc Rogue,65
+1670,Orc Rogue,65
+1671,Orc Watcher,30
+1672,Dust Orc,26
+1673,Lard Orc,50
+1674,Orc Mage,34
+1675,Orc Mage,39
+1676,Orc Mage,43
+1677,Orc Wizard,34
+1678,Orc Wizard,39
+1679,Orc Wizard,43
+1680,Orc Magician,34
+1681,Orc Magician,39
+1682,Orc Magician,43
+1683,Orc Alchemist,34
+1684,Orc Alchemist,39
+1685,Orc Alchemist,43
+1686,Orc Shaman,44
+1687,Orc Shaman,53
+1688,Orc Shaman,57
+1689,Orc hunter,25
+1690,Orc Archer,49
+1691,Orc Sniper,52
+1692,Uruk Hai,55
+1693,Uruk Blade,56
+1694,Uruk Tron,56
+1695,Orc Prisoner,28
+1696,Ghost Warrior,57
+1697,Orc Watcher,30
+1701,Troll,79
+1721,Troll,73
+1722,Troll Warrior,80
+1723,Troll Berserker,82
+1724,Troll Captain,81
+1725,Troll King,95
+1726,Troll King,96
+1727,Troll King,95
+1731,Troll,79
+1741,Troll,73
+1742,Troll Warrior,80
+1743,Troll Berserker,85
+1744,Troll Captain,81
+1751,Troll,79
+1771,Troll,73
+1772,Troll Warrior,80
+1773,Troll Berserker,82
+1774,Troll Captain,81
+1775,Troll King,95
+1776,Troll,73
+1777,Troll,73
+1821,Blood Tail,92
+1822,Blood Tail,92
+1823,Manticore,64
+1824,Manticore,57
+1825,Manticore,92
+1826,Manticore,92
+1827,Manticore,92
+1873,Manticore,64
+1874,Manticore,57
+1875,Manticore,92
+1876,Manticore,92
+1877,Manticore,92
+1901,Trap,92
+2001,Lamia,57
+2002,Lamiros,58
+2003,Lamentation,60
+2004,Princess,64
+2005,Snake Queen,93
+2006,Snake Queen,93
+2007,Snake Queen,93
+2021,Lamia,57
+2022,Lamiros,58
+2023,Lamentation,59
+2024,Princess,64
+2051,Lamia,57
+2052,Lamiros,58
+2053,Lamentation,60
+2054,Princess,64
+2055,Snake Queen,93
+2071,Wraith,50
+2101,Deruvish,61
+2102,Apostle,69
+2103,Brahman,73
+2104,Paramun,76
+2105,Deruvish Founder,93
+2106,Deruvish Founder,93
+2107,Deruvish Founder,93
+2121,Deruvish,61
+2122,Apostle,69
+2123,Brahman,73
+2124,Paramun,76
+2151,Deruvish,61
+2152,Apostle,70
+2153,Brahman,73
+2154,Paramun,76
+2155,Deruvish Founder,93
+2201,Harpy,69
+2202,Raven Harpy,70
+2203,Crimson Wing,79
+2204,Falcon,80
+2205,Harpy Queen,94
+2206,Harpy Queen,94
+2207,Harpy Queen,94
+2221,Harpy,69
+2222,Raven Harpy,70
+2223,Crimson Wing,79
+2224,Falcon,80
+2251,Harpy,69
+2252,Raven Harpy,70
+2253,Crimson Wing,79
+2254,Falcon,80
+2255,Harpy Queen,94
+2256,Falcon,80
+2301,Succubus ,79
+2302,Incubus,79
+2303,Fallen Angel,81
+2304,Lillime,85
+2305,Lilith,83
+2351,Succubus ,79
+2352,Incubus,79
+2353,Fallen Angel,64
+2354,Lillime,85
+2355,Lilith,83
+2401,Stone Golem,69
+2402,Giant Golem,64
+2403,Dark Stone,85
+2404,Titan,83
+2405,Talos,94
+2406,Talos,94
+2407,Talos,94
+2421,Stone Golem,69
+2422,Giant Golem,64
+2423,Dark Stone,85
+2424,Titan,85
+2451,Stone Golem,69
+2452,Giant Golem,64
+2453,Dark Stone,85
+2454,Titan,83
+2455,Talos,94
+2501,Scura 1,93
+2502,Scura 2,94
+2503,Scura 3,95
+2504,Scura 4,95
+2505,Scura 5,95
+2551,Scura 1,93
+2552,Scura 2,94
+2553,Scura 3,95
+2554,Scura 4,95
+2555,Scura 5,95
+2601,Centaur,76
+2602,Centaur,76
+2603,Centaur Archer,90
+2604,Centaur Ranger,94
+2605,Centaur Sniper,93
+2606,Centaur Captain,94
+2607,Centaur Foal,67
+2651,Centaur,76
+2652,Centaur,76
+2653,Centaur Archer,90
+2654,Centaur Ranger,94
+2655,Centaur Sniper,93
+2656,Centaur Captain,94
+2657,Centaur Foal,67
+2673,Lard Orc,50
+2690,Caitharos,94
+2701,Snowman,20
+2702,Snowman,26
+2703,Snowman,26
+2704,Snowman,26
+2705,Snowman,26
+2751,Snowman,20
+2752,Snowman,26
+2753,Snowman,26
+2754,Snowman,26
+2755,Snowman,26
+2801,Orc Bandit Warrior,44
+2802,Orc Bandit Warrior,49
+2803,Orc Bandit Warrior,58
+2804,Orc Bandit Archer,42
+2805,Orc Bandit Archer,59
+2806,Orc Bandit Archer,55
+2807,Orc Bandit Sorcerer,36
+2808,Orc Bandit Sorcerer,59
+2809,Orc Bandit Sorcerer,59
+2810,Orc Bandit Pastor,44
+2811,Orc Bandit Pastor,49
+2812,Orc Bandit Pastor,58
+2813,Orc Bandit Officer,81
+2814,Orc Bandit Officer,72
+2815,Orc Bandit Officer,72
+2816,Orc Bandit Officer,81
+2817,Orc Bandit Leader,94
+2818,Orc Bandit Leader,94
+2819,Orc Bandit Leader,94
+2901,Kobold,30
+2902,Bugbear,26
+2903,Pooka,48
+2904,Goblin Bouncer,50
+2905,Goblin Juggler,43
+2906,Goblin Necromancer,52
+2907,Goblin Chief,78
+2908,Hob Goblin,56
+2951,Kobold,30
+2952,Bugbear,26
+2953,Pooka,48
+2954,Goblin Bouncer,50
+2955,Goblin Juggler,43
+2956,Goblin Necromancer,52
+2957,Goblin Chief,78
+2958,Hob Goblin,56
+2959,Hob Goblin,56
+2999,Goblin,30
+3001,Darkmare,84
+3002,Deathmare,87
+3003,Shademare,93
+3004,Dreadmare,93
+3021,Darkmare,84
+3022,Deathmare,87
+3023,Shademare,93
+3024,Dreadmare,94
+3051,Darkmare,84
+3052,Deathmare,87
+3053,Shademare,93
+3054,Dreadmare,93
+3101,Scout,41
+3151,Scout,41
+3201,Football,20
+3202,Remnant,20
+3203,Remnant,20
+3251,Rabbit,20
+3252,Remnant,20
+3253,Remnant,20
+3301,Cave Leech,20
+3351,Cave Leech,20
+3371,Cave Leech,20
+3401,Black Widow,41
+3451,Black Widow,41
+3471,Black Widow,41
+3501,Gloom Hound,58
+3551,Gloom Hound,58
+3571,Gloom Hound,58
+3601,Burning Skeleton,55
+3651,Burning Skeleton,55
+3671,Burning Skeleton,56
+3701,Reaper,45
+3751,Reaper,45
+3771,Reaper,60
+3801,Flame Rock,74
+3851,Flame Rock,74
+3871,Flame Rock,74
+3891,Volcanic Rock,130
+3971,Drakha,76
+4001,Christmas Tree,26
+4002,Refugee,20
+4003,Refugee,20
+4004,Refugee,20
+4005,Refugee,20
+4006,Refugee,20
+4007,Refugee,20
+4008,Refugee,20
+4009,Refugee,20
+4010,Refugee,20
+4051,Christmas Tree,26
+4052,Refugee,20
+4053,Refugee,20
+4054,Refugee,20
+4055,Refugee,20
+4056,Refugee,20
+4057,Refugee,20
+4058,Refugee,20
+4059,El Morad Monument,60
+4060,Karus Monument,60
+4061,Center Mounment,70
+4062,Castle Gate,70
+4063,Castle Gate,70
+4064,Lever,50
+4065,Lever,50
+4066,El Morad Monument,90
+4067,Karus Monument,90
+4068,Center Mounment,80
+4081,Leather Scarecrow,38
+4082,Chain Scarecrow,70
+4083,Iron Scarecrow,80
+4101,Etaroth,78
+4102,Etaroth,78
+4151,Etaroth,78
+4152,Etaroth,78
+4201,Ape,43
+4251,Ape,43
+4301,Tyon,45
+4351,Tyon,45
+4401,Hornet,53
+4451,Hornet,53
+4501,Lich,54
+4551,Lich,54
+4591,Specter,93
+4592,Specter,93
+4601,Gray Oozy,54
+4651,Gray Oozy,54
+4701,Grell,55
+4751,Grell,55
+4801,Lizardman,68
+4802,Lizardman Warrior,76
+4803,Lizardman Captain,70
+4851,Lizardman,68
+4852,Lizardman Warrior,76
+4853,Lizardman Captain,70
+4901,Mudman,76
+4902,Mudman Boss,85
+4951,Mudman,76
+4952,Mudman Boss,85
+5001,Tree Ghost,68
+5002,Tree Ghost Variant,85
+5003,Tree Ghost King,88
+5051,Tree Ghost,68
+5052,Tree Ghost Variant,85
+5053,Tree Ghost King,88
+5061,Dark Dragon,85
+5062,Golden Dragon,68
+5063,Ghost,85
+5064,Red Ghost,88
+5065,Tarantula,68
+5066,Cannibalistic Tarantula,85
+5067,[Dragon God] Chimera,88
+5101,Guardian of Commander (El Morad),73
+5102,Guardian of Vice Commander (El Morad),73
+5151,Guardian of Commander (Karus),80
+5152,Guardian of Vice Commander (Karus),71
+5201,Messenger of Pathos,88
+5251,Messenger of Pathos,88
+5301,Ancient,46
+5351,Ancient,46
+5401,Treant,56
+5451,Treant,56
+5501,Isiloon,132
+5502,Servant of Isiloon,80
+5551,Isiloon,132
+5552,Servant of Isiloon,80
+5553,Isiloon,132
+5554,Servant of Isiloon,80
+5601,Servant of Isiloon,80
+5651,Servant of Isiloon,80
+5701,Isiloon,132
+5702,Felankor,150
+5801,Pride,83
+5851,Pride,83
+5901,Gluttony,85
+5951,Gluttony,85
+5999,Kaul,6
+6001,Wrath,87
+6051,Wrath,87
+6101,Sloth,89
+6151,Sloth,89
+6201,Lust,95
+6251,Lust,95
+6301,Envy,95
+6351,Envy,95
+6401,Greed,97
+6451,Greed,97
+6501,Ultima,120
+6551,Ultima,120
+6601,Ashton,69
+6651,Ashton,69
+6701,Guard Tower,80
+6751,Guard Tower,80
+6801,Treasure Chest,4
+6851,Treasure Chest,4
+6901,Stinger,39
+6902,Stegodon,47
+6903,Death Knight,45
+6904,Mastodon,45
+6905,Watcher,50
+6906,Blood Seeker,54
+6907,Beast,49
+6908,Bloodon,70
+6909,Baron,56
+6910,Cardinal,56
+6911,Haunga,58
+6912,Lamia,57
+6913,Deruvish,62
+6914,Riote,78
+6915,Troll,73
+6916,Lamiros,58
+6917,Apostle,69
+6918,Troll Warrior,80
+6919,Raven Harpy,70
+6920,Atross,85
+6921,Stone Golem,69
+6922,Giant Golem,64
+6923,Darkmare,84
+6924,Megantereon,45
+6927,Paralyzer,45
+6928,Harpy,69
+6929,Dark Eyes,35
+6930,Cardinal,56
+6950,Lobo,70
+6951,Lupus,70
+6952,Lycaon,76
+6953,Berk,76
+6954,Barkira,78
+6955,Lesath,80
+6956,Shaula,80
+6957,Bone Collecter,78
+6958,Dragon Tooth,93
+6959,Duke,76
+6960,Bach,78
+6961,Bishop,78
+6962,Javana,78
+6963,Samma,94
+6964,Aker,93
+7000,Kecoon Bandit,7
+7001,Orc Bandit,21
+7002,Orc Bandit Archer,4
+7003,Orc Bandit Boss Rabuma,23
+7004,Giant Rock,50
+7005,Twin Ape,41
+7006,Desert Haunga,50
+7007,Orc Scouter,40
+7008,Grief Reaper,57
+7009,Desert Golem,59
+7010,Ashtonian,85
+7011,Rimotrian,93
+7012,Cantausian,93
+7013,Messenger of Pathos,98
+7014,Ancient Golem,93
+7015,Balrog,88
+7016,Booro,86
+7017,Gargoyle,76
+7018,[Quest] Uruk Hai,93
+7019,[Quest] Stone Golem,93
+7020,[Quest] Crimson Wing,93
+7021,[Quest] Apostle,93
+7022,[Quest] Troll Berserker,93
+7023,[Quest] Darkmare,93
+7024,[Quest] Lamentation,93
+7025,[Quest] Lard Orc,93
+7026,[Quest] Raven Harpy,93
+7027,[Quest] Giant Golem,93
+7028,[Quest] Uruk Tron,93
+7029,[Quest] Troll Captain,93
+7030,[Quest] Falcon,93
+7031,[Quest] Deathmare,93
+7032,Castle Gate,20
+7033,Castle Gate,50
+7034,Castle Gate,80
+7035,Felankor,150
+7036,Dragon Servant,95
+7037,Guardian,94
+7038,Demonic Wizard,35
+7039,Dark Soldier,35
+7040,Orc Scouter,62
+7041,Dark Dragon,94
+7042,Golden Dragon,94
+7043,Ghost,80
+7044,Red Ghost,75
+7045,Tarantula,78
+7046,Cannibalistic Tarantula,76
+7047,[Dragon God] Chimera,132
+7048,Guard,120
+8000,Dragon Knight,49
+8001,Shade Knight,45
+8002,Dragon Tooth Soldier,55
+8003,Dragon Tooth Commander,61
+8004,Troll Shaman,76
+8005,Apostle of Piercing Cold ,79
+8006,Apostle of Flame,78
+8007,Doom Soldier,76
+8008,Dark Knight,82
+8009,Evil Wizard,78
+8010,Bloodon,57
+8011,Dragon Tooth Commander,65
+8012,Doom Soldier,79
+8013,Dark Knight,82
+8014,Apostle of Piercing Cold ,76
+8015,Troll Shaman,76
+8016,Apostle of Flame,83
+8017,Evil Wizard,79
+8052,Dragon Tooth Soldier,55
+8053,Dragon Tooth Commander,61
+8054,Troll Shaman,76
+8055,Apostle of Piercing Cold ,79
+8056,Apostle of Flame,78
+8060,Bloodon,60
+8100,Lich King,88
+8101,Cockatrice,89
+8102,Lillime,88
+8103,Minotaur,93
+8104,Bone Dragon,85
+8105,Red Dragon Hatchling,90
+8106,Devabird,98
+8107,Orc Archer,49
+8108,Inn Hostess,71
+8109,Inn Hostess,71
+8110,Bridge of Summoning,90
+8111,[Potion Merchant] Ruber,71
+8112,[Sundries] Halber,71
+8161,[Potion Merchant] Shama,71
+8162,[Sundries] Ardin,71
+8201,Doom Soldier,76
+8202,Apostle,69
+8203,Troll Warrior,80
+8401,Hellfire,95
+8402,Enigma,95
+8403,Havoc,95
+8404,Cruel,95
+8405,Medichmash,84
+8406,Nigmash,86
+8407,Keramash,86
+8408,Dreadium Fossil of Dragon,1
+8409,Dragon Fossil of Draki,1
+8410,Fossil Guard,55
+8411,Draki’s Medic,88
+8501,Dreadium Fossil of Dragon,1
+8502,Dragon Fossil of Draki,1
+8504,Treasure Chest,1
+8505,Treasure Chest,1
+8506,Ancient Cruel,1
+8507,Fossil Mini Guard,32
+8601,Krowaz,98
+8602,Lanceman,61
+8603,Soldier,65
+8604,Archer,60
+8605,Healer,65
+8606,Magician,58
+8607,Venshar,96
+8608,Giga Hammer,96
+8609,Cuff Binder,98
+8610,Cuff Binder Spidering,85
+8611,Knight of Betrayal,82
+8614,Old Chest,4
+8615,Lillime,88
+8616,Booro,86
+8617,Ashton,74
+8618,Guard Tower,80
+8619,Guard Tower,80
+8620,Treant,82
+8621,Giga Hammer’s Chest,4
+8622,Cuff Binder’s Chest,4
+8623,Treasure Chest,1
+8624,Minotaur,84
+8625,Giant Golem,82
+8626,Krowaz’s Chest,4
+8630,Lust,82
+8631,Envy,86
+8632,Greed,90
+8633,Treasure Chest,1
+8634,Treasure Chest,1
+8635,Legendary Treasure Chest,1
+8636,Legendary Treasure Chest,1
+8637,Legendary Treasure Chest,1
+8638,Halloween Pumpkin,20
+8639,Halloween Pumpkin,20
+8640,Specter of Turkey,20
+8641,Christmas Tree,26
+8642,Naughty Snowman,8
+8643,[Field Boss] Hideous ,11
+8644,[Field Boss] Kekurikang,11
+8645,[Field Boss] Bandiking,11
+8646,[Field Boss] Gavoltin,30
+8647,[Field Boss] Keshark,23
+8648,[Field Boss] Scolaid,33
+8649,[Field Boss] Wolfraiger,41
+8650,[Field Boss] Byzombie,42
+8651,[Field Boss] Omegatron,42
+8652,[Field Boss] Skelcrown,54
+8653,[Field Boss] Garukonga,70
+8654,[Field Boss] Lapiona,70
+8655,[Field Boss] Kamicollo,70
+8656,[Field Boss] Urukthrone,70
+8657,[Field Boss] Alkedrada,70
+8658,[Field Boss] Trethorns,73
+8659,[Field Boss] Garukonga,70
+8660,[Field Boss] Lapiona,70
+8661,[Field Boss] Kamicollo,70
+8662,[Field Boss] Urukthrone,70
+8663,[Field Boss] Alkedrada,70
+8664,[Field Boss] Trethorns,73
+8700,Warmer,50
+8701,Head Shaian,53
+8702,Wood Leech,50
+8703,Gagupi,53
+8704,Guardian,50
+8705,Sun Rising,53
+8706,Dragoniti,50
+8707,Dread Prime,53
+8708,Dragonia,57
+8709,Gouger,44
+8710,Guardist,44
+8711,KuriKuri,44
+8712,Kecoon,44
+8713,Screamer,44
+8714,Kaula,44
+8715,Headsha,44
+8716,Deepvolf,44
+8717,Lebit,44
+8718,Upertaurs,50
+8719,Tooth,57
+8720,Captain Tooth,60
+8721,Hyde,57
+8722,Shubatalion,60
+8723,Dragon Knight,57
+8724,Shade Knight,60
+8725,Orc Bow,57
+8726,Orc Bow,60
+8727,Loser,75
+8728,Black Guard,70
+8729,Orc Mage,75
+8730,Kecoon Sorcerer,57
+8731,Saka,62
+8732,Uniblin,57
+8733,Troll Shaman,57
+8734,Evil Tooth,68
+8735,Rampage Man,57
+8736,Kingdom Orc,70
+8737,Dungeon Keeper,70
+8738,Oneculforal,53
+8739,Onetima,50
+8740,Twoculforal,53
+8741,Twotima,50
+8742,Treculforal,53
+8743,Tretima,50
+8744,Foculforal,53
+8745,Fotima,50
+8746,Countral,57
+8747,Obelisk,44
+8748,Lebit,44
+8749,Full Chest,44
+8750,Gripontiac,44
+8751,Nerpio Chest,44
+8752,Borneo Chest,44
+8753,Garsio Chest,44
+8754,Goddess Ymir,50
+8755,Gavolt,57
+8756,Hawe,60
+8757,Habue,57
+8758,Hase,60
+8759,Hadi,57
+8760,Hai,60
+8761,Harp,57
+8762,Alphabet,70
+8763,Kedik,34
+8764,Kedik Scout,34
+8765,Kedik Fighter,34
+8766,Kedik Raider,34
+8767,Kedik Sorcerer,34
+8768,Kedik Shaman,34
+8769,Kecoon Crawl,34
+8770,Kekurisharesause,44
+8771,Cave Leech,34
+8772,Black Widow,34
+8773,Burning Skeleton,34
+8774,Treant,34
+8775,Goblin Necromancer,34
+8776,Wraith,44
+8777,Nerpio Chest,57
+8778,Borneo Chest,70
+8779,Gargoyle,57
+8780,Borneo Chest,57
+8781,Garsio Chest,57
+8782,Centaur,62
+8783,Ogrok,70
+8784,Indy Archer,70
+8785,Nauldion,60
+8786,Date,70
+8787,Shape,67
+8788,One Eye,70
+8789,Artikesha,70
+8790,Troll,67
+8791,Lagerpeton,49
+8792,Laonbelisk,75
+8793,Ash Knight,60
+8794,Tooth,70
+8795,Shadow,67
+8796,Captain Tooth,70
+8797,Black Guard,70
+8798,Dark Knight,67
+8799,Apostle of Piercing Cold ,60
+8800,Revenge Knight,75
+8801,Rampage Man,68
+8802,Scouter,78
+8803,Hirok,62
+8804,Rampage Man,68
+8805,Scouter,68
+8806,Hirok,68
+8807,Staut,68
+8808,Bandit Orc,71
+8809,Rampage Orc,74
+8810,Etaroth,29
+8811,Lobo,70
+8812,Lupus,70
+8813,Lycaon,76
+8814,Berk,76
+8815,Barkira,78
+8816,Lesath,80
+8817,Shaula,80
+8818,Bone Collecter,78
+8819,Dragon Tooth,93
+8820,Duke,76
+8821,Bach,78
+8822,Bishop,78
+8823,Javana,78
+8824,Samma,94
+8825,Aker,93
+8826,Lavender,29
+8827,Rosemary,29
+8828,Castle Gate,40
+8829,Castle Gate,40
+8830,Castle Gate,40
+8831,Dungeon Knight,70
+8832,Crisis,78
+8833,Crisis,78
+8834,Crisis,78
+8835,Crisis,78
+8836,Ibexs,78
+8837,Ibexs,78
+8838,Ibexs,78
+8839,Ibexs,78
+8840,Dulian,93
+8841,Grudge,94
+8842,Query,93
+8843,Dulian,93
+8844,Grudge,93
+8845,Query,93
+8846,Balrog,88
+8847,Booro,86
+8850,Guard Summon,70
+8851,Treant,55
+8852,Treant,55
+8853,Treant,55
+8854,Ancient,46
+8855,Ancient,46
+8856,Ancient,46
+8857,Cardinal,48
+8858,Cardinal,48
+8859,Cardinal,48
+8860,Cardinal,48
+8861,Cardinal,48
+8862,Cardinal,48
+8863,Dungeon Knight,70
+8864,Center Mounment,70
+8865,Center Mounment,80
+8866,Krowaz,98
+8867,Giga Hammer,96
+8868,Cuff Binder,98
+8900,Lobo,98
+8901,Lupus,99
+8902,Lycaon,97
+8903,Berk,98
+8904,Barkira,99
+8905,Lesath,97
+8906,Shaula,98
+8907,Skelcrown,99
+8908,Raxton,97
+8909,Duke,98
+8910,Bach,99
+8911,Bishop,98
+8912,Javana,99
+8913,Samma,97
+8914,Dulian,98
+8915,Grudge,99
+8916,Query,99
+8917,Attila,99
+8918,Sharpwol,93
+8919,Barkira,93
+8920,Lupus,93
+8921,Berk,93
+8922,Lobo,93
+8923,Wolfhound,93
+8924,Barkira,93
+8925,Lycaon,93
+8926,Lesath,93
+8927,Samma,93
+8928,Skelcrown,93
+8929,Raxton,93
+8930,Berk,93
+8931,Shaula,93
+8932,Javana,93
+8933,Duke,84
+8934,Lupus,87
+8935,Lesath,80
+8936,Shaula,80
+8937,Bach,84
+8938,Lycaon,87
+8939,Samma,80
+8940,Lobo,80
+8941,Bishop,84
+8942,Berk,87
+8943,Barkira,80
+8944,Javana,80
+8945,Chaos Stone,80
+8946,Chaos Stone,80
+8947,Chaos Stone,80
+8950,Pride,83
+8951,Gluttony,85
+8952,Wrath,92
+8953,Sloth,96
+8954,Lust,100
+8955,Envy,110
+8956,Greed,115
+8960,Chest of Pride,1
+8961,Chest of Gluttony,1
+8962,Chest of Wrath,1
+8963,Chest of Sloth,1
+8964,Chest of Lust,1
+8965,Chest of Envy,1
+8966,Chest of Greed,1
+9001,Boss,7
+9002,Big Christmas Tree,7
+9003,Small Christmas Tree,18
+9004,Small Christmas Tree,18
+9005,Small Christmas Tree,18
+9006,Etaroth,15
+9007,New Year Big Event,50
+9008,New Year Big Event,50
+9009,Mine Guard,1
+9010,[Royal National Enchanter],73
+9011,Yellow Sand,50
+9012,Yellow Sand,50
+9013,Demon’s Pawn,62
+9014,Forwird,63
+9015,Forwird Warrior,64
+9016,Guard,63
+9017,Elite Guard,63
+9018,Scout,70
+9019,Forwird Knight,72
+9020,Forwird Captain,74
+9021,Wandering Specter,60
+9022,Grendel,73
+9023,Grendel’s Mother,79
+9024,Fierce Red Dragon,64
+9025,Barbarian Leader,75
+9026,[Barbarian King] Marsil,74
+9027,[Betrayed Paladin] Garlong,68
+9028,[King of Forwird] Kihol,70
+9029,[Tyrant] Breth,78
+9030,[Satan] Valroru,74
+9031,[Evil Spirit of Night] Piste,74
+9032,Guard,63
+9033,Elite Guard,63
+9040,Pride,60
+9041,Gluttony,60
+9042,Wrath,60
+9043,Sloth,60
+9044,Lust,60
+9045,Envy,60
+9046,Greed,60
+9047,Dulian,60
+9048,Grudge,60
+9049,Query,60
+9050,Hellfire,60
+9051,Enigma,60
+9052,Havoc,60
+9053,Cruel,60
+9054,Krowaz,60
+9055,Giga Hammer,60
+9056,Cuff Binder,60
+9057,[Event] Felankor,70
+9058,[Event] Lich King,70
+9059,[Event] Golden Dragon,70
+9060,[Event] Krowaz,70
+9061,Scout,70
+9062,Burning Stone,68
+9063,Half Troll Berserker,69
+9064,Ironclaw,69
+9065,Half Troll Captain,70
+9066,Half Troll Shaman,71
+9067,Satiros,69
+9068,Death Wizard,69
+9069,Doom Knight,69
+9070,Apostle of the Storm,69
+9071,Nightmare,70
+9072,Half Troll Warrior,70
+9073,Burning Stone,68
+9074,Half Troll Berserker,69
+9075,Ironclaw,69
+9076,Half Troll Captain,70
+9077,Half Troll Shaman,71
+9078,Satiros,69
+9079,Death Wizard,69
+9080,Doom Knight,69
+9081,Apostle of the Storm,69
+9082,Nightmare,70
+9083,Half Troll Warrior,70
+9084,Spirit of Chaos Purifier,80
+9085,Sitri,62
+9086,Gusion,62
+9087,Naberius,62
+9088,Marchosias,62
+9089,Haagenti,62
+9090,Oriax,62
+9091,Storas,62
+9092,Aim,62
+9093,Vapula,62
+9094,Uvall,62
+9095,Andromalius,62
+9096,Cimejes,62
+9097,Buer,70
+9098,Paimon,70
+9099,Ipos,70
+9100,Gaap,70
+9101,Bifrons,62
+9102,Ose,62
+9103,Furfur,72
+9104,Marax,72
+9105,Amy,72
+9106,Vine,72
+9107,Dantalion,70
+9108,Andrealphus,70
+9109,Barbatos,69
+9110,Amon,71
+9111,Purson,71
+9112,Foras,71
+9113,Shax,55
+9114,Orobas,55
+9115,Asmodeus,69
+9116,Sallos,69
+9117,Gremory,69
+9118,Savnock,69
+9119,Seere,71
+9120,Haures,71
+9121,Valefor,70
+9122,Marbas,70
+9123,Bathin,62
+9124,Astaroth ,70
+9125,Vephar,55
+9126,Camio,55
+9127,Forneus,71
+9128,Botis,71
+9129,Murmur,73
+9130,Focalor,73
+9131,Decarabia,73
+9132,Andras,73
+9133,Samigina,73
+9134,Vassago,73
+9135,Zepar,73
+9136,Ronove,73
+9137,Raum,57
+9138,Balam,57
+9139,Berith,60
+9140,Eligos,70
+9141,Alloces,70
+9142,Malphas,70
+9143,Belial,71
+9144,Volac,71
+9145,Agares,73
+9146,Bael,73
+9147,Leraje,73
+9148,Glasya-labolas,73
+9149,Halphas,58
+9150,Corcell,58
+9151,Bune,71
+9152,Beleth,71
+9153,Furcas,71
+9154,Phenex,71
+9155,Amdusias,73
+9156,Zagan,73
+9157,Awaken Asmodeus,75
+9158,Sitri,62
+9159,Gusion,62
+9160,Naberius,62
+9161,Marchosias,62
+9162,Haagenti,62
+9163,Oriax,62
+9164,Storas,62
+9165,Aim,62
+9166,Vapula,62
+9167,Uvall,62
+9168,Andromalius,62
+9169,Cimejes,62
+9170,Buer,70
+9171,Paimon,70
+9172,Ipos,70
+9173,Gaap,70
+9174,Bifrons,62
+9175,Ose,62
+9176,Furfur,72
+9177,Marax,72
+9178,Amy,72
+9179,Vine,72
+9180,Dantalion,70
+9181,Andrealphus,70
+9182,Barbatos,71
+9183,Amon,71
+9184,Purson,71
+9185,Foras,71
+9186,Shax,55
+9187,Orobas,55
+9188,Asmodeus,69
+9189,Sallos,69
+9190,Gremory,69
+9191,Savnock,69
+9192,Seere,71
+9193,Haures,71
+9194,Valefor,70
+9195,Marbas,70
+9196,Bathin,65
+9197,Astaroth ,70
+9198,Vephar,55
+9199,Camio,55
+9200,Forneus,71
+9201,Botis,71
+9202,Murmur,73
+9203,Focalor,73
+9204,Decarabia,73
+9205,Andras,73
+9206,Samigina,73
+9207,Vassago,73
+9208,Zepar,73
+9209,Ronove,73
+9210,Raum,57
+9211,Balam,57
+9212,Berith,60
+9213,Eligos,70
+9214,Alloces,70
+9215,Malphas,70
+9216,Belial,71
+9217,Volac,71
+9218,Agares,73
+9219,Bael,73
+9220,Leraje,73
+9221,Glasya-labolas,73
+9222,Halphas,58
+9223,Corcell,58
+9224,Bune,71
+9225,Beleth,71
+9226,Furcas,71
+9227,Phenex,71
+9228,Amdusias,73
+9229,Zagan,73
+9230,Awaken Asmodeus,75
+9231,Chesnut Tree,18
+9232,Chestnut Burr,18
+9233,Chesnut Tree,18
+9234,Chestnut Burr,18
+9235,Test Demon,50
+9236,Test Demon,50
+9237,Test Demon,50
+9238,Lunar Festival Chest,1
+9239,Lunar Festival Chest,1
+9240,Lunar Festival Chest,1
+9241,Lunar Festival Chest,1
+9242,Lunar Festival Chest,1
+9243,Lunar Festival Chest,1
+9244,Lunar Festival Chest,1
+9245,Lunar Festival Chest,1
+9246,Lunar Festival Chest,1
+9247,Lunar Festival Chest,1
+9248,Lunar Festival Chest,1
+9249,Lunar Festival Chest,1
+9250,Dark Dragon,110
+9251,Bloody Krowaz,98
+9252,Bloody Tarantula,98
+9253,Unknown Corpse,70
+9254,Wandering Knight Ghost,81
+9255,Mage Ghost,82
+9256,Wife of Castellan with Grudge,85
+9257,Castellan Ghost,93
+9258,Tarantula,60
+9259,Guard Summon,70
+9260,[Biologist] Ramark,73
+9261,Contaminated Lamia,57
+9262,[Field Boss] Contaminated Lamiros,60
+9263,Contaminated Haunga Warrior,57
+9264,[Field Boss] Contaminated Garukonga,62
+9265,Ancient Treant,57
+9266,[Field Boss] Legendary Old Tree,62
+9267,Old Ancient,57
+9268,[Field Boss] Ancient Trethorns,62
+9269,Mana Specter,57
+9270,[Field Boss] Mana Predator,62
+9271,Shadow Rift,70
+9272,Wander of Dimension,57
+9273,Rift Pursuer,57
+9274,Mana Predator,57
+9275,Shadow Specter,57
+9276,[Field Boss] Shadow of Krowaz ,68
+9277,Bune,71
+9278,Guard Tower,80
+9279,Guard Tower,80
+9280,Little Snowman ,30
+9281,Snowman,30
+9282,Fat Snowman,40
+9283,Huge Snowman,40
+9284,Happy Snowman,50
+9285,Demon’s Crystal,50
+9286,Small Snowman,18
+9287,Rowdy Snowman,40
+9288,Rowdy Snowman,40
+9289,Rowdy Snowman,50
+9290,Talos,94
+9291,Harpy Queen,94
+9292,Deruvish Founder,93
+9293,Samma,94
+9294,Shaula,80
+9295,Snake Queen,93
+9296,Dragon Tooth,93
+9297,Troll King,95
+9298,Krowaz,98
+9299,Felankor,150
+9300,The Specter of Pride,50
+9301,The Specter of Gluttony,56
+9302,The Specter of Wrath,64
+9303,The Specter of Sloth,70
+9304,The Specter of Lust,75
+9305,The Specter of Envy,75
+9306,The Specter of Greed,79
+9307,Spinning Top [Ready],50
+9308,Spinning Top [Spinning],50
+9309,Spinning Top [Stabilized],50
+9310,Spinning Top [Rotating],38
+9311,Spinning Top [Swifting],16
+9312,Worm,1
+9313,Bandicoot,2
+9314,Kecoon,6
+9315,Bulcan,13
+9316,Gavolt,16
+9317,Bulture,21
+9318,Werewolf,24
+9319,Silan,27
+9320,Gloomwing,25
+9321,Scorpion,31
+9322,Zombie,32
+9323,Skeleton,30
+9324,[Angry Spirit of Tree],16
+9325,[Lumberjack],16
+9326,Xigenon Specter,48
+9327,[Karus] Iron Force Leader,65
+9328,[Karus] Iron Force,79
+9329,[Karus] Iron Force,79
+9330,[Karus] Iron Force,79
+9331,[Karus] Iron Force,79
+9332,[Karus] Iron Force,79
+9333,[Karus] Iron Force,79
+9334,Trophy,4
+9335,Trophy,4
+9336,Trophy,4
+9337,Trophy,4
+9338,Trophy,4
+9339,Trophy,4
+9340,Trophy,4
+9341,Stontailer Specter,48
+9342,[El Morad] Iron Force Leader,65
+9343,[El Morad] Iron Force,79
+9344,[El Morad] Iron Force,79
+9345,[El Morad] Iron Force,79
+9346,[El Morad] Iron Force,79
+9347,[El Morad] Iron Force,79
+9348,[El Morad] Iron Force,79
+9349,Chef,70
+9350,Chef,70
+9351,Chef,70
+9352,Kaiky,9
+9353,9th Anniversary Cake,1
+9354,9th Anniversary Cake,1
+9355,9th Anniversary Cake,1
+9356,9th Anniversary Cake,1
+9357,9th Anniversary Cake,1
+9358,9th Anniversary Cake,1
+9359,9th Anniversary Cake,1
+9360,9th Anniversary Cake,1
+9361,Come and See,7
+9362,Spirit of the Dawn,7
+9363,名妓ㆍ계섬월,7
+9364,百戰『□ト』『귀』メ?,7
+9365,Carpe↙Diem?,7
+9366,구공탄,7
+9367,여왕쉬라,7
+9368,불타는쓰레빠?,7
+9369,쥑인다,7
+9370,제국을위해,7
+9371,꽃,7
+9372,킹카メ,7
+9373,이별후愛,7
+9374,Ψdemonicζ,7
+9375,어둠의저주살,7
+9376,『Death』나이트™,7
+9377,잉어퀸,7
+9378,メ傳說의大惡魔™,7
+9379,鬼귀†신神™,7
+9380,수진이엄마,7
+9381,[Transformed Kekoon],7
+9382,[Transformed Kekoon],7
+9383,[Transformed Kekoon],7
+9384,[Transformed Kekoon],7
+9385,[Lord of Worms],38
+9386,[Lord of Worms],43
+9387,[Lord of Worms],43
+9388,[Lord of Worms],40
+9389,[Lord of Worms],38
+9390,[Lord of Worms],43
+9391,[Lord of Worms],43
+9392,[Lord of Worms],40
+9393,[Insect Damaged Living Water Tree],7
+9394,[Insect Damaged Sprit Water Tree],7
+9395,[Healthy Living Water Tree],7
+9396,[Healthy Sprit Water Tree],7
+9397,[Insect Damaged Living Water Tree],7
+9398,[Insect Damaged Sprit Water Tree],7
+9399,[Healthy Living Water Tree],7
+9400,[Healthy Sprit Water Tree],7
+9401,[Sharaph Tree],7
+9402,Six fingers,7
+9403,도도한그놈님♡?,7
+9404,『☆」￡ørÐ_꼬마γ,7
+9405,EDGE,7
+9406,[Joint Guard] Snebaker,16
+9407,Blue Dragon,80
+9408,Spirit of Ancient Hero,7
+9409,Pumpkin Lantern,7
+9410,Geden Sorcery Tower,90
+9411,Gedon Sorcery Tower,90
+9412,Geron Sorcery Tower,90
+9413,Mammoth Summon Tower,90
+9414,Mammoth Summon Tower,100
+9415,Felankor,135
+9416,Dark Dragon,95
+9417,Bloody Krowaz,93
+9418,Bloody Tarantula,93
+9419,Giga Hammer,93
+9420,Cuff Binder,93
+9421,Hellfire,90
+9422,Enigma,90
+9423,Havoc,90
+9424,Cruel,90
+9425,Unnamed,1
+9501,[Emperor] Mammoth III,133
+9502,[Emperor] Mammoth III,133
+9503,[Emperor] Mammoth III,135
+9504,[Machine Golem] Crasher Gimmick,140
+9505,[Machine Golem] Crasher Gimmick,140
+9506,[Machine Golem] Crasher Gimmick,140
+9507,[Machine Golem] Crasher Gimmick,142
+9508,[Abyssal Guadian] Furious,132
+9509,[Abyssal Guadian] Furious,132
+9510,[Abyssal Guadian] Furious,132
+9511,[Abyssal Guadian] Furious,133
+9512,[Shackled Lord] Fluwiton,130
+9513,[Shackled Lord] Fluwiton,130
+9514,[Shackled Lord] Fluwiton,132
+9515,[Lord of Destruction] Fluwiton,135
+9516,[Lord of Destruction] Fluwiton,135
+9517,[Lord of Destruction] Fluwiton,135
+9518,[Lord of Destruction] Fluwiton,135
+9519,[Elite] Sipahi Heavy Calvary,93
+9520,Sipahi Heavy Calvary,81
+9521,[Elite] Kapikulu Royal Guard,93
+9522,Kapikulu Royal Guard,82
+9523,[Elite] Timarli,93
+9524,Timarli,83
+9525,Geryoneis,93
+9526,[Elite] Geryoneis,94
+9527,Astaroth ,28
+9528,Rage of Moebius,94
+9529,Evil of Moebius,100
+9530,[Sorcerer] Geden,100
+9531,[Sorcerer] Gedon,100
+9532,[Sorcerer] Geron,100
+9533,Von Huinum,78
+9534,Ahtal,88
+9535,Muspell,84
+9536,Amy,95
+9537,Pidama,78
+9538,Von Eblis,87
+9539,[Elite] Sipahi Heavy Calvary,93
+9540,[Elite] Kapikulu Royal Guard,93
+9541,[Elite] Timarli,93
+9542,[Elite] Geryoneis,90
+9543,Astaroth ,28
+9544,Rage of Moebius,94
+9545,Evil of Moebius,93
+9546,Trophy Chest,4
+9547,Trophy Chest,4
+9548,Trophy Chest,4
+9549,Trophy Chest,4
+9550,Door,100
+9551,Trophy Chest,4
+9552,Trophy Chest,4
+9553,Trophy Chest,4
+9554,Prototype No.1,97
+9555,Prototype No.2,97
+9556,Prototype No.2,15
+9557,[Emperor] Mammoth III,130
+9558,[Emperor] Mammoth III,130
+9559,[Emperor] Mammoth III,130
+9560,[Emperor] Mammoth III,130
+9561,Gate,100
+9562,Gate,100
+9563,[Shackled Lord] Fluwiton,131
+9564,Crow,65
+9565,Crow2,65
+9566,[Shackled Lord] Fluwiton,135
+9567,Cone hat,16
+9568,Lame Tree,16
+9569,Stalker,16
+9570,Fluwiton’s Gift,65
+9571,Astaroth ,16
+9572,Pidama,16
+9573,Von Eblis,16
+9574,Lame Tree,16
+9575,Astaroth ,16
+9576,Pidama,16
+9577,Von Eblis,16
+9578,Fluwiton’s Gift,65
+9579,Pathos,131
+9580,Ultima,113
+9581,Felankor,150
+9582,Wandering Specter,60
+9583,Antares,69
+9584,Hyde,70
+9585,Wandering Specter,60
+9586,Antares,69
+9587,Hyde,70
+9588,Scout,95
+9589,Hellfire,56
+9590,Enigma,56
+9591,Havoc,56
+9592,Cruel,56
+9593,[Emperor] Mammoth III,60
+9594,[Abyssal Guadian] Furious,60
+9595,[Lord of Destruction] Fluwiton,60
+9596,Golden Dragon,60
+9597,Turkey,16
+9598,Pumpkin Axe,7
+9599,Chestnut Tree,7
+9600,Karus Teleport Gate,40
+9601,Karus Chief Gate Keeper,130
+9602,Karus 1st Guard Leader,130
+9603,Karus 2nd Guard Leader,130
+9604,Karus Garrison Soldier,76
+9605,Karus Partoller,70
+9606,El Morad Teleport Gate,40
+9607,El Morad Chief Gate Keeper,130
+9608,El Morad 1st Guard Leader,130
+9609,El Morad 2nd Guard Leader,76
+9610,El Morad Garrison Soldier,76
+9611,El Morad Partoller,70
+9612,Apostle,70
+9613,Apostle,70
+9614,Dragon Tooth Commander,61
+9615,Dragon Tooth Commander,61
+9616,Troll,73
+9617,Troll,73
+9618,Harpy,73
+9619,Harpy,73
+9620,Mad Owner,50
+9621,Balrog,88
+9622,Booro,86
+9623,Libertine,50
+9624,Trophy Chest,1
+9625,Trophy Chest,1
+9626,Trophy Chest,1
+9627,Trophy Chest,1
+9628,Trophy Chest,1
+9629,Trophy Chest,1
+9630,Trophy Chest,1
+9631,Trophy Chest,1
+9632,Trophy Chest,1
+9633,Trophy Chest,1
+9634,Trophy Chest,1
+9635,Trophy Chest,1
+9636,Stontailer Specter,48
+9637,Xigenon Specter,48
+9638,Giant Turkey,50
+9639,Karus Snowman,50
+9640,El Morad Snowman,50
+9641,Looter,16
+9642,Halion,77
+9643,Kaishirak,75
+9644,Minion of Marsil,70
+9645,Minion of Bathin,70
+9646,Minion of Garlong,70
+9647,Pricilla,88
+9648,Contaminated Karus Warrior,59
+9649,Contaminated El Morad Warrior,59
+9650,Spirit of Water,58
+9651,Chaos Dragon Tooth Commander,83
+9652,Draki,74
+9653,Chimera,70
+9654,Fortified Portu,73
+9655,Chaos Fossil Guard,61
+9657,Minion of Draki,34
+9658,Black Pirate Member,25
+9659,Black Pirate Member,25
+9660,Black Pirate Captain,32
+9661,Raged Captain,37
+9662,Transformed Amelie,36
+9663,Transformed Worm,36
+9664,Draiden,47
+9665,Gin Draiden,70
+9666,Guard of Black Marketer,25
+9667,Death Knight,45
+9668,Ancient,46
+9669,King Death Knight,47
+9670,King Ape,46
+9671,Ancient King,55
+9672,Savage,37
+9673,Wolf Dog,35
+9674,Death Knight,45
+9675,Ancient,46
+9676,Orc Warrior,58
+9677,Orc Warrior,58
+9678,Orc Warrior,58
+9679,Orc Warrior,58
+9680,Dragon Tooth Commander,75
+9681,Dragon Tooth Commander,75
+9682,Fossil Guard,55
+9683,Fossil Guard,55
+9684,Chaos Dragon Tooth Commander,83
+9685,Chaos Fossil Guard,61
+9686,Sindria,44
+9687,Horizon,44
+9688,Death Rebirth,44
+9689,Sindria,44
+9690,Horizon,44
+9691,Death Rebirth,44
+9692,Savage,37
+9693,Wolf Dog,35
+9695,[Barbarian King] Marsil,74
+9696,[Betrayed Paladin] Garlong,63
+9697,King Ape,47
+9698,Garges,150
+9699,Dark Dragon,110
+9700,Trophy Chest,58
+9701,Kecoon,13
+9702,Karus Monument,19
+9703,El Morad Monument,19
+9704,Ronark Knight,150
+9705,Kecoon,13
+9706,Kecoon,13
+9707,Hellfire,56
+9708,Enigma,56
+9709,Havoc,56
+9710,Cruel,56
+9711,[Event] Shaitan,60
+9712,[Event] Forgotten Princess,70
+9713,[Event] Corrupted Priest,60
+9714,[Event] Demon Sword Sultan,70
+9715,[Event] Scorpion King,60
+9716,Test Altar,50
+9717,Uruk Blade,56
+9718,Spirit of Ancient Hero,7
+9719,Druken Brawler,150
+9720,Druken Brawler,50
+9721,Sheep Looking Kaul,1
+9722,Kaul Mother,200
+9723,Specter of Archmage I,110
+9724,Specter of Archmage II,110
+9725,[Virgin] Archmage,150
+9726,Virgin,50
+9727,Virgin,50
+9728,Contaminated Tyon,30
+9729,Diseased Smilodon,30
+9730,Captured El Moradian,40
+9731,Captured Karusian,40
+9732,Portu Subject No.127 ,40
+9733,Failed Manticore,40
+9734,Kurian Subject No.118,50
+9735,Cold Golem,50
+9736,Enhanced Portu No.3,50
+9737,Blood Troll,50
+9738,Isiloon Clone,60
+9739,Enhanced Rhino No.77,60
+9740,Failed Subject No.2,60
+9741,Failed Subject No.17,60
+9742,Disposed Subject No.30,70
+9743,Mutated Scavenger,70
+9744,Draki War Horse No.5,75
+9745,Draki Soldier No.113,75
+9748,Giant Bulcan,19
+9749,Gavolt,16
+9750,Mastodon,52
+9751,Blood Seeker,49
+9752,Dire Wolf,39
+9753,Beast,47
+9754,Megantereon,45
+9755,Snatcher,8
+9756,Panzer Bin,40
+9757,Undying,40
+9758,Skeleton Champion,43
+9759,Death Knight,49
+9760,Ash Knight,54
+9761,Dragon Tooth Knight,58
+9762,Skeleton,30
+9763,Scolar,50
+9764,Sheriff,47
+9765,Cardinal,48
+9766,Baron,51
+9767,Haunga,57
+9768,Harunga,60
+9769,Konga,54
+9770,Garuna,57
+9771,Haunga,58
+9772,Haunga Warrior,58
+9773,Orc Watcher,30
+9774,Lard Orc,50
+9775,Orc Archer,49
+9776,Orc Sniper,52
+9777,Uruk Hai,55
+9778,Uruk Blade,56
+9779,Uruk Tron,56
+9780,Troll,79
+9781,Troll,73
+9782,Troll Warrior,80
+9783,Troll Berserker,85
+9784,Manticore,64
+9785,Lamia,57
+9786,Lamiros,58
+9787,Lamentation,59
+9788,Wraith,50
+9789,Deruvish,61
+9790,Apostle,69
+9791,Harpy,69
+9792,Raven Harpy,70
+9793,Crimson Wing,79
+9794,Fallen Angel,64
+9795,Stone Golem,69
+9796,Giant Golem,64
+9797,Dark Stone,85
+9798,Centaur,76
+9799,Kobold,30
+9800,Bugbear,26
+9801,Pooka,48
+9802,Goblin Bouncer,50
+9803,Hob Goblin,56
+9804,Bugbear,26
+9805,Darkmare,84
+9806,Black Widow,41
+9807,Gloom Hound,58
+9808,Burning Skeleton,56
+9809,Reaper,60
+9810,Volcanic Rock,130
+9811,Tyon,45
+9812,Tyon,45
+9813,Lich,54
+9814,Specter,93
+9815,Grell,55
+9816,Forgotten Princess,70
+9817,Corrupted Priest,80
+9818,Demon Sword Sultan,90
+9819,Scorpion King,100
+9820,Shaitan,110
+9821,Forgotten Princess,70
+9822,Corrupted Priest,80
+9823,Demon Sword Sultan,90
+9824,Scorpion King,100
+9825,Shaitan,110
+9826,Kidnapped Girl,35
+9827,Captured Karus Warrior,41
+9828,Girl’s Father,46
+9829,Girl’s Mother,51
+9830,Scorpion King,56
+9831,Spellbound Princess,61
+9832,Knight of Forgotten Kingdom,66
+9833,Princess of Forgotten Kingdom,71
+9834,Shaitan,76
+9835,Blue Phoenix,91
+9836,Enhanced Draki Soldier,92
+9837,Contaminated Dark Dragon,93
+9838,Pathos Fragment,94
+9839,Draki El Rasaga,95
+9840,Altar of Manes,19
+9841,Forgotten Knight,57
+9842,Forgotten Knight,57
+9843,Treasure Chest,4
+9844,Treasure Chest,4
+9845,Treasure Chest,4
+9846,Treasure Chest,4
+9847,Treasure Chest,4
+9848,Treasure Chest,4
+9849,92 Boss (Shadow),92
+9850,Hellfire Dragon,150
+9851,Knight of Grudge,78
+9852,Knight of Grudge,78
+9853,Arena Monster I (Boss),30
+9854,Arena Monster II (Boss),30
+9855,Arena Monster III,20
+9856,Wild Grass,1
+9857,Jumbo Worm,150
+9858,Demon Rabbit,150
+9859,Dark Stone,85
+9860,Titan,83
+9861,Balrog,88
+9862,Booro,86
+9863,Chaos Stone,150
+9864,Baphomet,150
+9865,Gigantic Titan,150
+9866,Arch Demon,150
+9867,Dark Stone,85
+9868,Titan,83
+9869,Balrog,88
+9870,Booro,86
+9871,Chaos Stone,150
+9872,Baphomet,150
+9873,Gigantic Titan,150
+9874,Arch Demon,150
+9875,Giant Snowman,150
+9876,Easter Rooster,150
+9877,Lamiros,58
+9878,Harpy,69
+9879,Ape,43
+9880,Messenger of the God Pathos,120
+9881,Pride,83
+9882,Gluttony,85
+9883,Wrath,87
+9884,Sloth,89
+9885,Lust,95
+9886,Envy,95
+9887,Greed,97
+9888,Ultima,120
+9889,Ashiton,69
+9890,Guard tower,80
+9891,Lesser Dark Stone,50
+9892,Lesser Booro,50
+9893,Hell Harpy,50
+9894,Hell Doom Soldier,50
+9895,Lesser Titan,50
+9896,Lesser Arch Demon,50
+9897,Contaminated Resident,100
+9898,Wandering Spectre,100
+9899,Rift,100
+9900,Twisted Moradon Resident,150
+9902,Demon Rabbit,150
+9903,Twisted Moradon Stalker,50
+9904,[Event] Halloween Pumpkin,100
+9905,[Event] Cernunnos,100
+9906,[Event] Cruach,100
+9908,Cursed Christmas Tree,50
+9909,Red Chicken,150
+9910,Outraged Chicken Mother,64
+9911,Outraged Burning Chicken,50
+9914,Soul of the Dark Dragon,150
+9924,Lunar Spirit,150
+9925,Lunar Sorcerer,150
+9927,Harpy,150
+9928,Ape,150
+9929,Flame Golem,150
+9930,Ice Golem,150
+9931,Freed Gigantic Hammer,150
+9932,Lunar Stalker,150
+9933,Lunar Guard,150
+9934,Lunar Elite,150
+9935,Lunar Knight,150
+9936,Lunar Emperor,150
+9937,Ashton,150
+9938,Blood Troll,150
+9939,Blue Phoenix,150
+9940,Draki’s Warhorse,150
+9941,Draki’s Servant,150
+9942,Black Draki,150
+9943,Mutated Lunar Rabbit,150
+9944,Lunar Rabbit Captain,150
+9945,Lunar Rabbit Emperor,150
+9946,Wild Lunar Rabbit,20
+9947,Harpy,150
+9948,Ape,150
+9949,Flame Golem,150
+9950,Ice Golem,150
+9951,Freed Gigantic Hammer,150
+9952,Inferior Guard,70
+9953,Guard,70
+9954,Superior Guard,90
+9955,Harpy,150
+9956,Ape,150
+9957,Flame Golem,150
+9958,Ice Golem,150
+9959,Freed Gigantic Hammer,150
+9960,Centaur,150
+9961,Apostle of White Knight,150
+9962,Apostle of Red Flame,150
+9963,Astaroth ,150
+9964,Tarantula,150
+9965,Queen Tarantula,150
+9966,Baby Tarantula,150
+9967,Magic Cutter,150
+9968,Blood Troll,150
+9969,Draki’s Charger,150
+9970,Draki’s Elite,150
+9971,Black Draki,150
+9972,Draki’s Lion,150
+9973,Troublesome Snowman,50
+9974,Golden Legend Hound,60
+9981,Wrath of Grand Mage,110
+9982,Tear of Grand Mage,110
+9983,Mourn of Grand Mage,150
+9984,Rabbit,150
+9985,Yellow Dog,150
+9986,Wanderer Skeleton,150
+9987,Snowman,150
+9988,Golden Puppy,150
+9989,Gift of Pathos,150
+9990,Gift of Pathos,150
+9991,Gift of Pathos,150
+9992,Gift of Pathos,150
+9993,Gift of Pathos,150
+9994,Gift of Pathos,150
+9995,Pathos’ Delegate,150
+9997,Kapikulu Royal Guard,150
+9998,Timarli,150
+9999,Sipahi Heavy Calvary,150
+10000,Mammoth III,150
+10001,Astaroth ,150
+10002,Ahtal,150
+10003,Amy,150
+10004,Muspell,150
+10005,Freed Gigantic Hammer,150
+10006,Enhanced Portu,150
+10007,Centaur,100
+10008,Enhanced Rhino,150
+10009,Disposed Subject No.30,150
+10010,Draki’s Elite,150
+10011,Black Draki,150
+10012,Pride,150
+10013,Gluttony,150
+10014,Wrath,150
+10015,Sloth,150
+10016,Lust,150
+10017,Envy,150
+10018,Greed,150
+10019,Ultima,150
+10020,Superior Guard,70
+10021,Guard (Defense),70
+10022,Guard (Chase),90
+10023,Guard,90
+10024,Spirit of Hero,84
+10025,Titan,85
+10026,Balrog,88
+10027,Dark Stone,85
+10028,Booro,86
+10029,Apostle of Flame,78
+10030,Apostle of Piercing Cold ,79
+10031,Darkmare,84
+10032,Evil Wizard,78
+10033,Brahman,73
+10034,Abundantly Blessed Plant,50
+10035,Scorpion,31
+10036,Shaula,80
+10037,Pincer,33
+10038,Refugee,20
+10039,Refugee,20
+10040,Refugee,20
+10041,Refugee,20
+10042,Baby Gold Dragon,100
+10043,Leftover Bone,1
+10044,Escaped Turkey,150
+10045,Yellow Spitz,150
+10046,Yellow Spitz Owner,110
+10047,Raged Lunar Rabbit,150
+10048,Raged Rabbit,50
+10049,Yellow Spitz,150
+10050,Wild Horse,75
+10052,Carrot Thief,50
+10057,Haetae,150
+10058,Lucky Golden Piglet,50
+10059,Refugee,20
+10060,Refugee,20
+10061,Dreadmare,94
+10062,Troll,73
+10063,Stone Golem,69
+10064,Undying,20
+10070,[Quest] Stone Golem,69
+10071,[Quest] Troll Berserker,73
+10072,[Quest] Lard Orc,50
+10073,[Quest] Giant Golem,50
+10080,Local Guardian,150
+10081,Guardian Servant,50
+10082,Elmorad Guardian,50
+10083,Dragon Servant,150
+10084,Baby Dragon,50
+10087,Private Rabbit,50
+10088,Sergeant Rabbit,50
+10092,Karus Guardian,50
+10100,[Boss] Ultima,150
+10101,Demolition Seal Artifact,60
+10102,[Destruction] Ultima Seal Artifact,60
+10103,[Protection] Ultima Seal Artifact,60
+10110,[Boss] Ultima,150
+10111,[Boss] Ultima,150
+10300,Pride,83
+10301,Gluttony,85
+10302,Wrath,92
+10303,Sloth,96
+10304,Lust,100
+10305,Envy,110
+10306,Greed,115
+10501,El Morad Point Artifact,60
+10502,Karus Point Artifact,60
+10503,Red Dragon Hatchling,90
+10504,Krowaz,98
+10505,Lens Man,61
+10506,Soldier,65
+10507,Archer,60
+10508,Healer,65
+10509,Magician,58
+10510,Giga Hammer,96
+10511,Knight of betrayal,82
+10512,Cuff Binder,98
+10513,Cuff Binder Son,85
+10600,Dimensional Rift Guardian,78
+10601,Sealing Stone of Redemption,80
+10602,New Year Box,4
+10603,New Year Box,4
+10604,Lataino’s Clone,150
+10605,[Event] Giga Hammer,50
+10606,[Event] Cuff Binder,98
+10607,[Event] Cuff Binder,98
+10608,[Event] Krowaz,98
+10609,[Event] Krowaz,98
+10620,Fortified El-Rasaga,95
+10701,[Lower Grade] Kecoon,6
+10702,[Lower Grade] Bulcan,13
+10703,[Lower Grade] Bulture,21
+10704,[Lower Grade] Werewolf,24
+10705,[Lower Grade] spoiler,30
+10706,[Lower Grade Mid-Boss] Gaboltin,30
+10707,[Lower Grade Mid-Boss] Scoride,33
+10708,[Lower Grade Mid-Boss] Byzombie,42
+10709,[Lower Grade Mid-Boss] Skelcrown,54
+10710,[Mid Grade] Dust Orc,26
+10711,[Mid Grade] Haunga,58
+10712,[Mid Grade] Skeleton,30
+10713,[Mid Grade] Shadow seeker,44
+10714,[Mid Grade] Lupus,70
+10715,[Mid Grade] Dragon Tooth Skeleton,58
+10716,[Mid Grade Mid-Boss] Garukonga,70
+10717,[Mid Grade Mid-Boss] Urukthrone,70
+10718,[Mid Grade Mid-Boss] Alkedrada,70
+10719,[Mid Grade Mid-Boss] Threthonez,73
+10720,[High Grade] Troll,73
+10721,[High Grade] Aionclo,69
+10722,[High Grade] Stone golem,69
+10723,[High Grade] Paramun,76
+10724,[High Grade] Giant golem,64
+10725,[High Grade] Doom Soldier,76
+10726,[High Grade] Evil Wizard,79
+10727,[High Grade] Atross,85
+10728,[High Grade] DARK MARE,82
+10729,[High Grade Mid-Boss] Hell Fire,95
+10730,[High Grade Mid-Boss] Enigma,95
+10731,[High Grade Mid-Boss] Havoc,95
+10732,[High Grade Mid-Boss] Cruel,95
+10733,[Boss] Dark Dragon,110
+10740,Worm,1
+10741,Earth Worm,2
+10800,Elite Pirate Member,76
+10801,Elite Pirate Member,76
+10810,Kekurikekukaka,55
+10811,Lobo,69
+10812,Lupus,69
+10813,Lycaon,71
+10814,Barrkk,71
+10815,Barkirra,79
+10816,Antares,69
+10817,Shaula,82
+10818,Lesath,82
+10819,Hyde,70
+10820,bone collecter,79
+10821,Dragon tooth,83
+10822,Duke,71
+10823,Bach,80
+10824,Bishop,80
+10825,Javana,80
+10826,Samma,86
+10827,attila,85
+10828,Blessed Troll King,95
+10829,Snake Queen,93
+10830,Deruvish founder,93
+10831,Harpy Queen,94
+10832,Talos,94
+10833,Orc bandit leader,94
+10900,Krowaz,98
+10901,Giga Hammer,96
+10902,Cuff Binder,98
+10910,Pride,83
+10911,Gluttony,85
+10912,Wrath,92
+10913,Sloth,96
+10914,Lust,100
+10915,Envy,110
+10916,Greed,115
+11001,Elmorad Kill Point Tower ,20
+11002,Karus Kill Point Tower,20
+11003,Giant Minotaur,150
+11004,Lunar LICH,54
+11005,Lunar LICH,54
+11006,Wild Boar,45
+11007,Attila,85
+11011,[Quest]Raven Harpy,70
+11012,[Quest]Raven Harpy,70
+11020,Ultima,150
+11050,Christmas tree,50
+11060,Runaway Moon Rabbit,50
+11063,Felankor,150
+11064,Cursed Knight,133
+11065,Cursed Knight,133
+11070,Vephar,55
+11071,Camio,55
+11072,Raum,57
+11073,Balam,57
+11074,Haagenti,62
+11075,Oriax,62
+11076,Bifrons,62
+11077,Ose,62
+11078,Shax,55
+11079,Orobas,55
+11080,Halphas,58
+11081,Corcell,58
+31513,[Monster Strategist],1

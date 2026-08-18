@@ -1,0 +1,774 @@
+ID,Name,Description
+100010000,Fork,"Soldier on, pre-exam  students!!"
+100020000,Hand mirror,"Soldier on, pre-exam  students!!"
+100030000,Roar of Yellow Dragon,Meow
+100110000,Hero Sword,
+100120000,Hero Knife,
+100130000,Hero Bow,
+100140000,Hero Mace,
+100150000,Hero Staff,
+110010000,Dagger,Basic Rogue Item
+110050000,Dagger,Basic Rogue Item
+110110000,Dagger,A dagger commonly found everywhere.
+110111000,Practice Dagger,Dagger for undertaking  upgrade quests.
+110150000,Fine Yard,Dagger
+110190000,Dagger,Dagger that can be easily  obtained anywhere.  (Quest Item)
+110410000,Knife,"This knife is more powerful than  a dagger, and is suited  for stabbing."
+110450000,Dirk,Dagger
+110610000,Stiletto,A type of small dagger with  the advantages and disadvantages  of both dagger and knife.
+110612000,Stiletto,A Knife with the merits  of a dagger and a knife.  A popular addition.  Sells cheaply to NPC merchants...
+110650000,Mail Breaker,Nado Dagger
+110710000,Assassin Dagger,A dagger that has been  improved to meet  the needs of assassins.
+110712000,Assassin Dagger,Assassins.. A Dagger upgraded to  meet their needs. A popular addition.  Sells cheaply to NPC merchants...
+110810000,Sword Breaker,A dagger with a sawtooth blade.
+110812000,Sword Breaker,A knife with saw blades.  A popular addition.  Sells cheaply to NPC merchants...
+110910000,Kukry,A dagger that is a little  like the boomerang.
+110912000,Kukry,"A dagger that is somewhat  like a boomerang.  It was added as a popular addition,  and sold at cheap prices to  NPC mechants."
+111010000,Cleaver,A big knife for cutting meat.
+111012000,Cleaver,"A big knife for cutting meat.  It was added as a popular addition,  and sold at cheap prices to  NPC mechants."
+111110000,Mirage Dagger,A dagger of mirage.
+111111000,Mirage Dagger,A dagger of mirage.
+111112000,Mirage Dagger,"A dagger of mirage.  It was added as a popular addition,  and sold at cheap prices  to NPC mechants."
+111122000,Mirage Dagger,"A dagger of mirage.  It was added as a popular  addition, and sold at cheap  prices to NPC mechants."
+111210000,Shard,A dagger meaning sharply  broken fragment.
+111211000,Shard,A dagger meaning sharply  broken fragment.
+111310000,Exceptional Shard,A dagger meaning sharply  broken fragment.
+111311000,Exceptional Shard,A dagger meaning sharply  broken fragment.
+111410000,Novice Knife 1,Novice Rogue’s Knife
+111420000,Novice Knife 2,Novice Rogue’s Knife
+111430000,Training Rogue’s Knife 1,Knife for training rogues
+111440000,Training Rogue’s Knife 2,Knife for training rogues
+111450000,Skilled Rogue’s Knife 1,Skilled Rogue’s Knife
+111460000,Skilled Rogue’s Knife 2,Skilled Rogue’s Knife
+111470000,Training Knife,Knife for training rogues
+112501000,Turtle Shells,
+119101000,Dark Vane,"Made by the Dark Elf,  it kills the opponent instantaneously."
+119102000,Cold-Hearted Dagger,Mysterious icicle Found  during the Adonis expedition  for evil-soldier subjugation.
+119103000,Noah Eslant Icicle,Mysterious icicle Found  during the Adonis expedition  for evil-soldier subjugation.
+119111000,Dark Vane,"Made by the Dark Elf, it kills  the opponent instantaneously."
+119112000,Cold-Hearted Dagger,Mysterious icicle Found  during the Adonis expedition  for evil-soldier subjugation.
+119121000,Noah Dark Vane,"Made by the Dark Elf,  it kills the opponent instantaneously."
+119201000,Cut Snake Tail,A Knife created from the  legend of a giant snake which  survived a fatal trap by cutting  its own tail off.
+119301000,Sherion,Lethal dagger employed  by legendary assassins
+119311000,Sherion,Lethal dagger employed by  legendary assassins
+119321000,Noah Sherian,Lethal dagger employed  by legendary assassins
+120010000,Short Sword,Basic Warrior Item
+120050000,Short Sword,Basic Warrior Item
+120110000,Short Blade,One-handed sword anyone  can wield easily.
+120150000,Short Blade,
+120190000,Short Blade,One-handed sword anyone  can wield easily.  (Quest Item)
+120310000,Long Sword,A light and relatively  short one-handed sword.
+120350000,Broad Sword,A common sword.
+120510000,Scimitar,"A gently curved sword, wielded by Calenuil!"
+120550000,Falchion,A broad and greatly  curved sword.
+120710000,Flame Sword,A sword engulfed in flames.
+120750000,Sabre,One-handed sword
+120810000,Rapier,A sword made exclusively  for stabbing.
+120812000,Rapier,A sword used only for stabbing.  A popular addition.  Sells cheaply to NPC merchants...
+120910000,Gradius,A one-handed sword that  was said to be wielded  by a certain Knight Squad.
+121010000,Crescent,A sword of the crescent moon.
+121012000,Crescent,A sword called as Crescent.  A popular addition.  Sells cheaply to NPC merchants...
+121110000,Blade,A sword famous for its  keen blade.
+121112000,Blade,One of the swords with  sharpest blades.  A popular addition.  Sells cheaply to NPC merchants...
+121210000,Slayer,A sword for hunting  a specific target.
+121211000,Slayer,A sword for hunting  a specific target.
+121310000,Graham,A sword of combativeness.
+121311000,Graham,A sword of combativeness.
+121410000,Exceptional Graham,A sword of combativeness.
+121411000,Exceptional Graham,A sword of combativeness.
+121420000,Novice Sword 2,Novice Warrior’s Sword
+121430000,Training Warrior’s Sword 1,Training Warrior’s Sword
+121440000,Training Warrior’s Sword 2,Training Warrior’s Sword
+121450000,Skilled Warrior’s Sword 1,Skilled Warrior’s Sword
+121460000,Skilled Warrior’s Sword 2,Skilled Warrior’s Sword
+121470000,Novice Sword 1,Novice Warrior’s Sword
+121510000,Skeleton Sword,
+125010000,Novice Two-Handed Sword 1,Novice Warrior’s  Two-Handed Sword
+125020000,Novice Two-Handed Sword 2,Novice Warrior’s  Two-Handed Sword
+125030000,Training Warrior’s Two-Handed Sword 1,Training Warrior’s  Two-Handed Sword
+125040000,Training Warrior’s Two-Handed Sword 2,Training Warrior’s  Two-Handed Sword
+125050000,Skilled Warrior’s Two-Handed Sword 1,Skilled Warrior’s  Two-Handed Sword
+125060000,Skilled Warrior’s Two-Handed Sword 2,Skilled Warrior’s  Two-Handed Sword
+125070000,Two-Handed Training Sword,Two-handed sword for  training warriors
+125210000,Combined Blade,A sword used by commoners  in the middle ages.
+125250000,Bastard Sword,"Two-handed sword, CaliMaestro’s preferred sword!"
+125310000,Two-Handed Sword,A sword that is rather  difficult to wield  even with both hands.
+125350000,Twei Hander,Two-handed sword
+125610000,Battle Sword,A two-handed sword made  solely for battle.
+125650000,War Sword,Two-handed sword
+125810000,Great Sword,A double-edged sword with  fearsome blades.
+125850000,Giant Sword,Two-handed sword
+125910000,Claymore,A thin bladed two-handed  sword that is suitable  for slashing.
+126010000,Flamberge,A sword of wave that  holds the power of  the sea god’s wave.
+126012000,Flamberge,A Sword of Wave which keeps  the wave of the sea god.  A popular addition.  Sells cheaply to NPC merchants...
+126110000,Double Blade,A twin-bladed sword  that can inflict  critical wounds.
+126112000,Double Blade,"A sword that can inflict  critical wounds with its twin blades.  It was added as a popular addition,  and sold at cheap prices  to NPC mechants."
+126210000,Destroyer,"A sword of destruction, Greensters favorite!"
+126212000,Destroyer,"A sword of destruction.  It was added as a popular addition,  and sold at cheap prices to NPC mechants."
+126310000,Durandal,The sword said to be given  to the best knight  of the Twelve Paladins.
+126311000,Durandal,The sword said to be given  to the best knight of  the Twelve Paladins.
+126312000,Durandal,"The sword said to be given to  the best knight of the Twelve Paladins.  It was added as a popular addition,  and sold at cheap prices  to NPC mechants."
+126322000,Durandal,"The sword said to be given  to the best knight of the  Twelve Paladins.  It was added as a popular addition,  and sold at cheap prices to  NPC mechants."
+126410000,Mirage,Seeing this sword brandished  about is like looking  at a mirage.
+126411000,Mirage,Seeing this sword brandished  about is like looking  at a mirage.
+126610000,Exceptional Mirage,Seeing this sword brandished  about is like looking  at a mirage.
+126611000,Exceptional Mirage,Seeing this sword brandished  about is like looking  at a mirage.
+127410000,Undefeatable Wirinom,"<font color=@#FFCC33@>Krowaz’s first class Cursed Soul,  the </font><font color=@#FF3300@>King of Death</font> <font color=@#FFCC33@>His appearance is dreadful, and Drakis</font> <font color=@#FFCC33@>have a grudge on the God of Logos  who throws themselves,</font> <font color=@#FFCC33@> and not the creator’s, but their  </font><font color=@#FF3300@>items </font><font color=@#FFCC33@>are the ones that they should worship.</font> -From the second lost page.."
+127411000,Undefeatable Wirinom,"<font color=@#FFCC33@>Krowaz’s first class Cursed Soul, the </font><font color=@#FF3300@>King of Death</font> <font color=@#FFCC33@>His appearance is dreadful, and Drakis</font> <font color=@#FFCC33@>have a grudge on the God of Logos who throws themselves,</font> <font color=@#FFCC33@> and not the creator’s, but their </font><font color=@#FF3300@>items </font><font color=@#FFCC33@>are the ones that they should worship.</font> -From the second lost page.."
+127420000,Weak Giant Wirinom,"<font color=@#FFCC33@>Krowaz’s first class Cursed Soul,  the </font><font color=@#FF3300@>King of Death</font> <font color=@#FFCC33@>His appearance is dreadful, and Drakis</font> <font color=@#FFCC33@>have a grudge on the God of Logos  who throws themselves,</font> <font color=@#FFCC33@> and not the creator’s, but their  </font><font color=@#FF3300@>items </font><font color=@#FFCC33@>are the ones that they should worship.</font> -From the second lost page.."
+127421000,Weak Giant Wirinom,"<font color=@#FFCC33@>Krowaz’s first class Cursed Soul, the </font><font color=@#FF3300@>King of Death</font> <font color=@#FFCC33@>His appearance is dreadful, and Drakis</font> <font color=@#FFCC33@>have a grudge on the God of Logos who throws themselves,</font> <font color=@#FFCC33@> and not the creator’s, but their </font><font color=@#FF3300@>items </font><font color=@#FFCC33@>are the ones that they should worship.</font> -From the second lost page.."
+127430000,Chaos Wirinom,"<font color=@#FFCC33@>Krowaz’s first class Cursed Soul,  the </font><font color=@#FF3300@>King of Death</font> <font color=@#FFCC33@>His appearance is dreadful, and Drakis</font> <font color=@#FFCC33@>have a grudge on the God of Logos  who throws themselves,</font> <font color=@#FFCC33@> and not the creator’s, but their  </font><font color=@#FF3300@>items </font><font color=@#FFCC33@>are the ones that they should worship.</font> -From the second lost page.."
+127431000,Chaos Wirinom,"<font color=@#FFCC33@>Krowaz’s first class Cursed Soul, the </font><font color=@#FF3300@>King of Death</font> <font color=@#FFCC33@>His appearance is dreadful, and Drakis</font> <font color=@#FFCC33@>have a grudge on the God of Logos who throws themselves,</font> <font color=@#FFCC33@> and not the creator’s, but their </font><font color=@#FF3300@>items </font><font color=@#FFCC33@>are the ones that they should worship.</font> -From the second lost page.."
+127440000,Sweet Kiss Wirinom,"<font color=@#FFCC33@>Krowaz’s first class Cursed Soul,  the </font><font color=@#FF3300@>King of Death</font> <font color=@#FFCC33@>His appearance is dreadful, and Drakis</font> <font color=@#FFCC33@>have a grudge on the God of Logos  who throws themselves,</font> <font color=@#FFCC33@> and not the creator’s, but their  </font><font color=@#FF3300@>items </font><font color=@#FFCC33@>are the ones that they should worship.</font> -From the second lost page.."
+127441000,Sweet Kiss Wirinom,"<font color=@#FFCC33@>Krowaz’s first class Cursed Soul, the </font><font color=@#FF3300@>King of Death</font> <font color=@#FFCC33@>His appearance is dreadful, and Drakis</font> <font color=@#FFCC33@>have a grudge on the God of Logos who throws themselves,</font> <font color=@#FFCC33@> and not the creator’s, but their </font><font color=@#FF3300@>items </font><font color=@#FFCC33@>are the ones that they should worship.</font> -From the second lost page.."
+127910000,Noah Undefeatable Wirinom,"<font color=@#FFCC33@>One of Marce Krowaz’s first class NightMares, </font> <font color=@#FF3300@>the King of Death</font>  <font color=@#FFCC33@>His appearance was dreadful,  and the Drakis, </font>  <font color=@#FFCC33@>while resenting the god Logos who  had forsaken them,</font> <font color=@#FFCC33@>were forced  to worship not their creator but the </font> <font color=@#FF3300@>objects</font><font color=@#FFCC33@> they left behind.</font>  -From the Second Lost Page..."
+127920000,Noah Weak Giant Wirinom,"<font color=@#FFCC33@>One of Marce Krowaz’s first class NightMares, </font> <font color=@#FF3300@>the King of Death</font>  <font color=@#FFCC33@>His appearance was dreadful,  and the Drakis, </font>  <font color=@#FFCC33@>while resenting the god Logos who  had forsaken them,</font> <font color=@#FFCC33@>were forced  to worship not their creator but the </font> <font color=@#FF3300@>objects</font><font color=@#FFCC33@> they left behind.</font>  -From the Second Lost Page..."
+127930000,Noah Chaos Wirinom,"<font color=@#FFCC33@>One of Marce Krowaz’s first class NightMares, </font> <font color=@#FF3300@>the King of Death</font>  <font color=@#FFCC33@>His appearance was dreadful,  and the Drakis, </font>  <font color=@#FFCC33@>while resenting the god Logos who  had forsaken them,</font> <font color=@#FFCC33@>were forced  to worship not their creator but the </font> <font color=@#FF3300@>objects</font><font color=@#FFCC33@> they left behind.</font>  -From the Second Lost Page..."
+127940000,Noah Sweet Kiss Wirinom,"<font color=@#FFCC33@>One of Marce Krowaz’s first class NightMares, </font> <font color=@#FF3300@>the King of Death</font>  <font color=@#FFCC33@>His appearance was dreadful,  and the Drakis, </font>  <font color=@#FFCC33@>while resenting the god Logos who  had forsaken them,</font> <font color=@#FFCC33@>were forced  to worship not their creator but the </font> <font color=@#FF3300@>objects</font><font color=@#FFCC33@> they left behind.</font>  -From the Second Lost Page..."
+128410000,Undefeatable Raum,"<b><font color=@#FFCC33@>Cursed Soul in Krowaz’s second army</font> </b><b><font color=@#FFCC33@>He is surprisingly good at stealing items.</font> <font color=@#3399FF@>....When Logos got rid of our tribe,..</font> </b><b><font color=@#3399FF@>...Raum’s very smile was like fire</font> </b>-From Draki’s dead body.."
+128411000,Undefeatable Raum,"<b><font color=@#FFCC33@>Cursed Soul in Krowaz’s second army</font> </b><b><font color=@#FFCC33@>He is surprisingly good at stealing items.</font> <font color=@#3399FF@>....When Logos got rid of our tribe,..</font> </b><b><font color=@#3399FF@>...Raum’s very smile was like fire</font> </b>-From Draki’s dead body.."
+128420000,Restricted Diet Raum,"<b><font color=@#FFCC33@>Cursed Soul in Krowaz’s second army</font> </b><b><font color=@#FFCC33@>He is surprisingly good at stealing items.</font> <font color=@#3399FF@>....When Logos got rid of our tribe,..</font> </b><b><font color=@#3399FF@>...Raum’s very smile was like fire</font> </b>-From Draki’s dead body.."
+128421000,Restricted Diet Raum,"<b><font color=@#FFCC33@>Cursed Soul in Krowaz’s second army</font> </b><b><font color=@#FFCC33@>He is surprisingly good at stealing items.</font> <font color=@#3399FF@>....When Logos got rid of our tribe,..</font> </b><b><font color=@#3399FF@>...Raum’s very smile was like fire</font> </b>-From Draki’s dead body.."
+128430000,Weak Giant Raum,"<b><font color=@#FFCC33@>Cursed Soul in Krowaz’s second army</font> </b><b><font color=@#FFCC33@>He is surprisingly good at stealing items.</font> <font color=@#3399FF@>....When Logos got rid of our tribe,..</font> </b><b><font color=@#3399FF@>...Raum’s very smile was like fire</font> </b>-From Draki’s dead body.."
+128431000,Weak Giant Raum,"<b><font color=@#FFCC33@>Cursed Soul in Krowaz’s second army</font> </b><b><font color=@#FFCC33@>He is surprisingly good at stealing items.</font> <font color=@#3399FF@>....When Logos got rid of our tribe,..</font> </b><b><font color=@#3399FF@>...Raum’s very smile was like fire</font> </b>-From Draki’s dead body.."
+128440000,Lousy Pickpocket Raum,"<b><font color=@#FFCC33@>Cursed Soul in Krowaz’s second army</font> </b><b><font color=@#FFCC33@>He is surprisingly good at stealing items.</font> <font color=@#3399FF@>....When Logos got rid of our tribe,..</font> </b><b><font color=@#3399FF@>...Raum’s very smile was like fire</font> </b>-From Draki’s dead body.."
+128441000,Lousy Pickpocket Raum,"<b><font color=@#FFCC33@>Cursed Soul in Krowaz’s second army</font> </b><b><font color=@#FFCC33@>He is surprisingly good at stealing items.</font> <font color=@#3399FF@>....When Logos got rid of our tribe,..</font> </b><b><font color=@#3399FF@>...Raum’s very smile was like fire</font> </b>-From Draki’s dead body.."
+128910000,Noah Undefeatable Raum,"<b><font color=@#FFCC33@>A NightMare in Marce Krowaz’s second army</font>  </b><b><font color=@#FFCC33@>He is surprisingly good at stealing items.</font>  <font color=@#3399FF@>....When Logos got rid of our tribe,..</font> </b><b><font color=@#3399FF@>.."
+128920000,Noah Restricted Diet Raum,"<b><font color=@#FFCC33@>A NightMare in Marce Krowaz’s second army</font>  </b><b><font color=@#FFCC33@>He is surprisingly good at stealing items.</font>  <font color=@#3399FF@>....When Logos got rid of our tribe,..</font> </b><b><font color=@#3399FF@>.."
+128930000,Noah Weak Giant Raum,"<b><font color=@#FFCC33@>A NightMare in Marce Krowaz’s second army</font>  </b><b><font color=@#FFCC33@>He is surprisingly good at stealing items.</font>  <font color=@#3399FF@>....When Logos got rid of our tribe,..</font> </b><b><font color=@#3399FF@>.."
+128940000,Noah Lousy Pickpocket Raum,"<b><font color=@#FFCC33@>A NightMare in Marce Krowaz’s second army</font>  </b><b><font color=@#FFCC33@>He is surprisingly good at stealing items.</font>  <font color=@#3399FF@>....When Logos got rid of our tribe,..</font> </b><b><font color=@#3399FF@>.."
+129101000,Hanguk Sword,Crafted by the artisans  of Chosun. Has mysterious powers.
+129102000,Baal’s Soul Stone,"A sword made from a Magical stone.  This stone does have the ability  to greatly empower its user,  but! The problem is its low  durablity."
+129111000,Hanguk Sword,Crafted by the artisans of Chosun.  Has mysterious powers.
+129121000,Noah Hanguk Sword,Crafted by the artisans of  Chosun.  Has mysterious powers.
+129201000,Nameless White Cherry Blossom,It is said that the knife  is cursed during production  by filling it with the sap of cherry  blossom from battle fields filled  with dead bodies.
+130110000,Stone Axe,
+130210000,Hand Axe,A light axe that can be  wielded with one hand.
+130250000,Wood Cutter,Axe
+130410000,Double Axe,A double-edged hand axe.
+130450000,Large Axe,Axe
+130451000,Large Axe,
+130610000,Bipennis,"Similar to double axe,  "
+130650000,Warrior Axe,Axe
+130651000,Warrior Axe,
+130710000,Military Pick,A small hand axe made  especially for hunting.
+130712000,Military Pick,A small professional axe  which aims at hunting.  A popular addition.  Sells cheaply to NPC merchants...
+130810000,Cleaver Axe,"Similar to double axe,  but this axe has a particular  pattern engraved on its center."
+130910000,Wrist Cutter,"A small, fast hand axe  that is used to sever the  enemy’s wrist. "
+130912000,Wrist Cutter,A small axe which aims at rapidly  cutting enemy’s wrists.  A popular addition.  Sells cheaply to NPC merchants...
+131010000,Tomahawk,A hand axe mainly used  by the natives.
+131011000,Tomahawk,A hand axe mainly used  by the natives.
+131110000,Deep Scar,A one-handed axe that  is easiest to inflict deep  bleeding wounds on the enemies.
+131111000,Deep Scar,A one-handed axe that  is easiest to inflict deep  bleeding wounds on the enemies.
+131210000,Exceptional Deep Scar,A one-handed axe that  is easiest to inflict deep  bleeding wounds on the enemies.
+131211000,Exceptional Deep Scar,A one-handed axe that  is easiest to inflict deep  bleeding wounds on the enemies.
+131510000,Cyclops Giant Arrow,
+131610000,Attila Axe,
+131710000,Dreadmare Axe,Monster Weapon
+135310000,Battle Axe,A hefty two-handed axe  that only a Troll might  be able to wield.
+135350000,War Axe,Two-handed axe
+135510000,Timber Axe,A two-handed axe that  can cut a whole tree  with a single chop.
+135550000,Lumber Axe,Two-handed axe
+135620000,Chinese Flag,
+135621000,Gold Trophy,
+135622000,Silver Trophy,
+135623000,Bronze Trophy,
+135624000,Tea Guk Ki,Republic of Korea!
+135625000,Gold Trophy,Gold Trophy
+135626000,Silver Trophy,Silver Trophy
+135627000,Bronze Trophy,Bronze Trophy
+135628000,Gold Trophy,Gold Trophy
+135629000,Silver Trophy,Silver Trophy
+135630000,Bronze Trophy,Bronze Trophy
+135710000,Twin Axe,"A two-handed axe with  long, twin blades."
+135712000,Twin Axe,Two-handed axe with long blades.  A popular addition.  Sells cheaply to NPC merchants...
+135750000,Tabar,Two-handed axe
+135751000,Tabar,
+135810000,Great Axe,An axe made only for  chopping downward.
+135812000,Great Axe,"An axe made only for chopping  downward. It was added as a popular  addition, and sold at cheap prices  to NPC mechants."
+135820000,Turkish Flag,
+135830000,American Flag,
+135840000,Canadian Flag,
+135850000,German Flag,
+135860000,Danish Flag,
+135870000,Polish Flag,
+135880000,Korean Flag,
+135890000,Chinese Flag,
+135900000,Japanese Flag,
+135910000,Broad Axe,A two-handed axe that  can also be swung about  with its broad blade.
+135912000,Broad Axe,"A two-handed axe that can also  be swung about with its broad  blades.  It was added as a popular addition,  and sold at cheap prices to  NPC mechants."
+135920000,Candy Greatsword,Christmas Event 
+135930000,Candy Bow,Christmas Event 
+135940000,Candy Dagger,Christmas Event 
+135950000,Candy Cane,Christmas Event 
+135960000,Candy Mace,Christmas Events 2014
+136010000,Bone Axe,An axe that was named  for its ability to cut  through to the bones  with one stroke.
+136012000,Bone Axe,An axe whose name implies  that a single swing can cut bones.  A popular addition.  Sells cheaply to NPC merchants...
+136020000,Candy Greatsword,Christmas Event 
+136030000,Candy Bow,Christmas Event 
+136040000,Candy Dagger,Christmas Event 
+136060000,Candy Mace for Priest,Christmas Event 
+136110000,Bone Cleaver,An axe that was named  for its ability to cut  through to the bones  with one stroke.
+136111000,Bone Cleaver,An axe that was named  for its ability to cut  through to the bones  with one stroke.
+136112000,Bone Cleaver,An axe whose name implies  that a single swing can cut bones.  A popular addition. Sells  cheaply to NPC merchants...
+136122000,Bone Cleaver,An axe whose name implies that  a single swing can cut bones.  A popular addition.  Sells cheaply to NPC merchants...
+136210000,Blade Axe,A two-handed axe famous  for its keen blade.
+136211000,Blade Axe,A two-handed axe famous  for its keen blade.
+136310000,Exceptional Blade Axe,A two-handed axe famous  for its keen blade.
+136311000,Exceptional Blade Axe,A two-handed axe famous  for its keen blade.
+136320000,Hepa’s Mirage Dagger,A dagger of mirage.
+136330000,Hepa’s Shard,A dagger meaning sharply  broken fragment.
+136340000,Hepa’s Exceptional Shard,A dagger meaning sharply  broken fragment.
+136350000,Hepa’s Slayer,A sword for hunting  a specific target.
+136360000,Hepa’s Graham,A sword of combativeness.
+136370000,Hepa’s Exceptional Graham,A sword of combativeness.
+136380000,Hepa’s Durandal,The sword said to be given  to the best knight  of the Twelve Paladins.
+136390000,Hepa’s Mirage,Seeing this sword brandished  about is like looking  at a mirage.
+136400000,Hepa’s Exceptional Mirage,Seeing this sword brandished  about is like looking  at a mirage.
+136410000,Hepa’s Tomahawk,A hand axe mainly used  by the natives.
+136420000,Hepa’s Deep Scar,A one-handed axe that  is easiest to inflict deep  bleeding wounds on the enemies.
+136430000,Hepa’s Exceptional Deep Scar,A one-handed axe that  is easiest to inflict deep  bleeding wounds on the enemies.
+136440000,Hepa’s Bone Cleaver,An axe that was named  for its ability to cut  through to the bones  with one stroke.
+136450000,Hepa’s Blade Axe,A two-handed axe famous  for its keen blade.
+136460000,Hepa’s Exceptional Blade Axe,A two-handed axe famous  for its keen blade.
+136470000,Hepa’s Bone Crasher,An axe used to hear the  bone screaming.
+136480000,Hepa’s Impact,An axe that stuns the  enemy with extremely  powerful impact.
+136490000,Hepa’s Exceptional Impact,An axe that stuns the  enemy with extremely  powerful impact.
+136500000,Hepa’s Totemic Club,A club or mace bestowed  with powers of sorcery.
+136510000,Hepa’s Iron Impact,A weapon that can hardly  be seen as a simple  two-handed hammer.
+136520000,Hepa’s Exceptional Iron Impact,A weapon that can hardly  be seen as a simple  two-handed hammer.
+136530000,Hepa’s Harpoon,A spear that is for stabbing  like a harpoon.
+136540000,Hepa’s Totemic Spear,A powerful one-handed spear  that deals double  damage due to sorcery.
+136550000,Hepa’s Exceptional Totemic Spear,A powerful one-handed spear  that deals double  damage due to sorcery.
+136560000,Hepa’s Glave,"A two-handed weapon that is  a cross between war hammer  and bill, it can be both  slash or stab."
+136570000,Hepa’s Raptor,Strong Scythe-type weapon  whose violence can also  affects yourself.
+136580000,Hepa’s Exceptional Raptor,Strong Scythe-type weapon  whose violence can also  affects yourself.
+136590000,Hepa’s Vortex Bow,It’s a bow with increased penetration by rotating arrows
+136600000,Hepa’s Iron Bow,A powerful bow that  requires great agility.
+136610000,Hepa’s Exceptional Iron Bow,A powerful bow that  requires great agility.
+136620000,Hepa’s Salamander Staff,A Staff imbued with the  power of fiery sand.
+136630000,Hepa’s Elixir Staff,A Magical Staff imbued  with the power of  immortality by using alchemy.
+136640000,Hepa’s Exceptional Elixir Staff,A Magical Staff imbued  with the power of  immortality by using alchemy.
+136650000,Hepa’s Priest Bone crasher,A crasher that has  been modified to be more  convenient for priests.
+136660000,Hepa’s Priest Impact,An impact that has  been modified to be more  convenient for priests.
+136670000,Hepa’s Exceptional Priest Impact,An impact that has  been modified to be more  convenient for priests.
+136680000,Hepa’s Hoplon,"A large, round shield."
+136690000,Hepa’s Sacred Shield,A shield empowered by the divine Spirits of the Piana Knights.
+136700000,Hepa’s Sacred Defender,A shield empowered by the divine Spirits of the Piana Knights.
+136710000,Hepa’s Tentora Shield,A shield enchanted with the magic of the Great Wizard Tentora.
+136720000,Hepa’s Tentora Defender,A shield enchanted with the magic of the Great Wizard Tentora.
+136730000,Hepa’s Edmont Aegis,"Legend tells of an aegis that will survive a lightning strike, summon storms and cause fear in the hearts of the people."
+136740000,Hepa’s Blessing Aegis,"Legend tells of an aegis that will survive a lightning strike, summon storms and cause fear in the hearts of the people."
+136750000,Boss monster 7kinds. one-hand[for Mammoth],One-hand sword
+136760000,Shield[Mammoth],Shield
+136770000,Falchion[Mammoth],Two-hand spear
+136780000,Spear[Mammoth],One-hand spear
+136790000,Three-shooter vulcan[Boomboom],Two-hand blunt
+136800000,Cannon[Boomboom],One-hand blunt
+136810000,Plwitoon Claw,Jamadhar
+136820000,Weapon1,
+136830000,Weapon2,
+136860000,,
+137320000,Hepa’s Mirage Dagger,A dagger of mirage.
+137330000,Hepa’s Shard,A dagger meaning sharply  broken fragment.
+137340000,Hepa’s Exceptional Shard,A dagger meaning sharply  broken fragment.
+137350000,Hepa’s Slayer,A sword for hunting  a specific target.
+137360000,Hepa’s Graham,A sword of combativeness.
+137370000,Hepa’s Exceptional Graham,A sword of combativeness.
+137380000,Hepa’s Durandal,The sword said to be given  to the best knight  of the Twelve Paladins.
+137390000,Hepa’s Mirage,Seeing this sword brandished  about is like looking  at a mirage.
+137400000,Hepa’s Exceptional Mirage,Seeing this sword brandished  about is like looking  at a mirage.
+137410000,Hepa’s Tomahawk,A hand axe mainly used  by the natives.
+137420000,Hepa’s Deep Scar,A one-handed axe that  is easiest to inflict deep  bleeding wounds on the enemies.
+137430000,Hepa’s Exceptional Deep Scar,A one-handed axe that  is easiest to inflict deep  bleeding wounds on the enemies.
+137440000,Hepa’s Bone Cleaver,An axe that was named  for its ability to cut  through to the bones  with one stroke.
+137450000,Hepa’s Blade Axe,A two-handed axe famous  for its keen blade.
+137460000,Hepa’s Exceptional Blade Axe,A two-handed axe famous  for its keen blade.
+137470000,Hepa’s Bone Crasher,An axe used to hear the  bone screaming.
+137480000,Hepa’s Impact,An axe that stuns the  enemy with extremely  powerful impact.
+137490000,Hepa’s Exceptional Impact,An axe that stuns the  enemy with extremely  powerful impact.
+137500000,Hepa’s Totemic Club,A club or mace bestowed  with powers of sorcery.
+137510000,Hepa’s Iron Impact,A weapon that can hardly  be seen as a simple  two-handed hammer.
+137520000,Hepa’s Exceptional Iron Impact,A weapon that can hardly  be seen as a simple  two-handed hammer.
+137530000,Hepa’s Harpoon,A spear that is for stabbing  like a harpoon.
+137540000,Hepa’s Totemic Spear,A powerful one-handed spear  that deals double  damage due to sorcery.
+137550000,Hepa’s Exceptional Totemic Spear,A powerful one-handed spear  that deals double  damage due to sorcery.
+137560000,Hepa’s Glave,"A two-handed weapon that is  a cross between war hammer  and bill, it can be both  slash or stab."
+137570000,Hepa’s Raptor,Strong Scythe-type weapon  whose violence can also  affects yourself.
+137580000,Hepa’s Exceptional Raptor,Strong Scythe-type weapon  whose violence can also  affects yourself.
+137590000,Hepa’s Vortex Bow,It’s a bow with increased penetration by rotating arrows
+137600000,Hepa’s Iron Bow,A powerful bow that  requires great agility.
+137610000,Hepa’s Exceptional Iron Bow,A powerful bow that  requires great agility.
+137620000,Hepa’s Salamander Staff,A Staff imbued with the  power of fiery sand.
+137630000,Hepa’s Elixir Staff,A Magical Staff imbued  with the power of  immortality by using alchemy.
+137640000,Hepa’s Exceptional  Elixir Staff,A Magical Staff imbued  with the power of  immortality by using alchemy.
+137650000,Hepa’s Priest Bone crasher,A crasher that has  been modified to be more  convenient for priests.
+137660000,Hepa’s Priest Impact,An impact that has  been modified to be more  convenient for priests.
+137670000,Hepa’s Exceptional Priest Impact,An impact that has  been modified to be more  convenient for priests.
+137710000,Hepa’s Tentora Shield,"A large, round shield."
+137720000,Hepa’s Tentora Defender,A shield empowered by the divine Spirits of the Piana Knights.
+137730000,Hepa’s Edmont Aegis,A shield empowered by the divine Spirits of the Piana Knights.
+137740000,Hepa’s Blessing Aegis,A shield enchanted with the magic of the Great Wizard Tentora.
+139301000,Avedon,"According to legend,  this axe will lead to  the destruction of the world."
+139311000,Avedon,"According to legend,  this axe will lead to the  destruction of the world."
+139321000,Noah Abardon,"According to legend,  this axe will lead to  the destruction of the world."
+139410000,Undefeatable Baal,"<font color=@#FFCC33@>Krowaz’s second in command, the Cursed Soul </font> <font color=@#FF3300@> Death Army’s General Commander</font><font color=@#FFCC33@></font> <font color=@#FFCC33@>There even exists a level of  loyalty in believing him.</font> <font color=@#3399FF@>Oh, Baal, please change the rule...</font> -From the second lost page.."
+139411000,Undefeatable Baal,"<font color=@#FFCC33@>Krowaz’s second in command, the Cursed Soul </font> <font color=@#FF3300@> Death Army’s General Commander</font><font color=@#FFCC33@></font> <font color=@#FFCC33@>There even exists a level of loyalty in believing him.</font> <font color=@#3399FF@>Oh, Baal, please change the rule...</font> -From the second lost page.."
+139420000,Weak Giant Baal ,"<font color=@#FFCC33@>Krowaz’s second in command, the Cursed Soul </font> <font color=@#FF3300@> Death Army’s General Commander</font><font color=@#FFCC33@></font> <font color=@#FFCC33@>There even exists a level of  loyalty in believing him.</font> <font color=@#3399FF@>Oh, Baal, please change the rule...</font> -From the second lost page.."
+139421000,Weak Giant Baal ,"<font color=@#FFCC33@>Krowaz’s second in command, the Cursed Soul </font> <font color=@#FF3300@> Death Army’s General Commander</font><font color=@#FFCC33@></font> <font color=@#FFCC33@>There even exists a level of loyalty in believing him.</font> <font color=@#3399FF@>Oh, Baal, please change the rule...</font> -From the second lost page.."
+139430000,Chaos Baal,"<font color=@#FFCC33@>Krowaz’s second in command, the Cursed Soul </font> <font color=@#FF3300@> Death Army’s General Commander</font><font color=@#FFCC33@></font> <font color=@#FFCC33@>There even exists a level of  loyalty in believing him.</font> <font color=@#3399FF@>Oh, Baal, please change the rule...</font> -From the second lost page.."
+139431000,Chaos Baal,"<font color=@#FFCC33@>Krowaz’s second in command, the Cursed Soul </font> <font color=@#FF3300@> Death Army’s General Commander</font><font color=@#FFCC33@></font> <font color=@#FFCC33@>There even exists a level of loyalty in believing him.</font> <font color=@#3399FF@>Oh, Baal, please change the rule...</font> -From the second lost page.."
+139440000,Sweet Kiss Baal,"<font color=@#FFCC33@>Krowaz’s second in command, the Cursed Soul </font> <font color=@#FF3300@> Death Army’s General Commander</font><font color=@#FFCC33@></font> <font color=@#FFCC33@>There even exists a level of  loyalty in believing him.</font> <font color=@#3399FF@>Oh, Baal, please change the rule...</font> -From the second lost page.."
+139441000,Sweet Kiss Baal,"<font color=@#FFCC33@>Krowaz’s second in command, the Cursed Soul </font> <font color=@#FF3300@> Death Army’s General Commander</font><font color=@#FFCC33@></font> <font color=@#FFCC33@>There even exists a level of loyalty in believing him.</font> <font color=@#3399FF@>Oh, Baal, please change the rule...</font> -From the second lost page.."
+139442000,Undefeatable Nepilim,
+139443000,Weak Giant Nepilim,
+139444000,Chaos Nepilim,
+139445000,Sweet Kiss Nepilim,
+139446000,Undefeatable Nepilim,
+139447000,Weak Giant Nepilim,
+139448000,Chaos Nepilim,
+139449000,Sweet Kiss Nepilim,
+139910000,Noah Undefeatable Baal,<font color=@#FFCC33@>Marce Krowaz’s second class NightMare</font>  <font color=@#FF3300@>Hell Army’s General Commander</font> <font color=@#FFCC33@></font> <font color=@#FFCC33@>There even exists a level of  loyalty  in believing him.</font> <font color=@
+139920000,Noah Weak Giant Baal ,<font color=@#FFCC33@>Marce Krowaz’s second class NightMare</font>  <font color=@#FF3300@>Hell Army’s General Commander</font> <font color=@#FFCC33@></font> <font color=@#FFCC33@>There even exists a level of  loyalty  in believing him.</font> <font color=@
+139930000,Noah Chaos Baal,<font color=@#FFCC33@>Marce Krowaz’s second class NightMare</font>  <font color=@#FF3300@>Hell Army’s General Commander</font> <font color=@#FFCC33@></font> <font color=@#FFCC33@>There even exists a level of  loyalty  in believing him.</font> <font color=@
+139940000,Noah Sweet Kiss Baal,<font color=@#FFCC33@>Marce Krowaz’s second class NightMare</font>  <font color=@#FF3300@>Hell Army’s General Commander</font> <font color=@#FFCC33@></font> <font color=@#FFCC33@>There even exists a level of  loyalty  in believing him.</font> <font color=@
+140210000,Maul,A big wooden hammer.
+140250000,Morning Star,Morning Star
+140410000,Mace,A club or cudgel made for  smashing armor to pieces.
+140450000,Iron Star,Iron Star
+140610000,War Hammer,A hammer used for the purpose  of rendering enemies unable  to fight rather than killing them.
+140650000,Spiked Club,Spiked Club
+140710000,Breaker,A hammer made for the purpose  of breaking the armor of enemies  rather than killing them.
+140712000,Breaker,"A hammer that is created to  break armors, rather than to  kill enemies at war.  A popular addition.  Sells cheaply to NPC merchants..."
+140810000,Hacker,A club or cudgel made for  smashing armor to pieces.
+140812000,Hacker,A mace or club that is created  to break armors.  A popular addition.  Sells cheaply to NPC merchants...
+140910000,Cracker,A wooden hammer made for  efficient interception  of hackers.
+140912000,Cracker,A wooden hammer that is created  to effectively hold back hackers.  A popular addition.  Sells cheaply to NPC merchants...
+141010000,Bone Crasher,An axe used to hear the  bone screaming.
+141011000,Bone Crasher,An axe used to hear  the bone screaming.
+141110000,Impact,An axe that stuns the  enemy with extremely  powerful impact.
+141111000,Impact,An axe that stuns the  enemy with extremely  powerful impact.
+141210000,Exceptional Impact,An axe that stuns the  enemy with extremely  powerful impact.
+141211000,Exceptional Impact,An axe that stuns the  enemy with extremely  powerful impact.
+142110000,monster weapon,-
+145310000,Great Maul,A very heavy wooden  hammer that can only  be held with both hands.
+145350000,Giant Maul,Giant Maul
+145510000,Battle Mace,A mace that breaks armor  and is greatly effective  in battle.
+145550000,War Club,War Club
+145710000,Great Mace,A mace to inflict greater  damage on the armor.
+145712000,Great Mace,"A mace to inflict greater  damage on the armor. It was  added as a popular addition, and  sold at cheap prices to NPC mechants."
+145750000,Giant Morning Star,Giant Morning Star
+145810000,Weight Hammer,A light hammer with  emphasis on speed.
+145812000,Weight Hammer,"A light hammer with emphasis  on speed. It was added as a popular  addition, and sold at cheap prices  to NPC mechants."
+145910000,Large Breaker,A hammer made for the purpose  of breaking the armor  of enemies rather than  killing them.
+145912000,Large Breaker,"A hammer that is created to  break armors, rather  than to kill enemies at war.  A popular addition. Sells cheaply to NPC merchants..."
+146010000,Large Hacker,A club or cudgel made  for smashing strong  armor to pieces.
+146012000,Large Hacker,A mace or club that is created  to break hard armors.  A popular addition.  Sells cheaply to NPC merchants...
+146110000,Totemic Club,A club or mace bestowed  with powers of sorcery.
+146111000,Totemic Club,A club or mace bestowed  with powers of sorcery.
+146112000,Totemic Club,"A club or mace bestowed with  powers of sorcery. It was  added as a popular addition, and  sold at cheap prices to  NPC mechants."
+146122000,Totemic Club,"A club or mace bestowed with  powers of sorcery.  It was added as a popular addition,  and sold at cheap prices to  NPC mechants."
+146210000,Iron Impact,A weapon that can hardly  be seen as a simple  two-handed hammer.
+146211000,Iron Impact,A weapon that can hardly  be seen as a simple  two-handed hammer.
+146310000,Exceptional Iron Impact,A weapon that can hardly  be seen as a simple  two-handed hammer.
+146311000,Exceptional Iron Impact,A weapon that can hardly  be seen as a simple  two-handed hammer.
+149101000,Hell Breaker,"Built only in Halskarem,  the city of steel."
+149111000,Hell Breaker,"Built only in Halskarem,  the city of steel."
+149121000,Noah Hell Breaker,"Built only in Halskarem,  the city of steel."
+149205000,Arc Crasher,It features two large  attached jewels.  It is said that anyone attacked  by this weapon is forced to  dream for an instant.
+149206000,Little Cat’s Right Paw,A weapon created with the hand  of a mysterious cat.  Used as a favorite tool for  Rogues who specialize in close combat.
+149207000,Little Cat’s Left Paw,A weapon created with the hand  of a mysterious cat.  Used as a favorite tool for  Rogues who specialize in close combat.
+149540000,Flower Shield,For your love and passion 
+150210000,Spear,An ordinary spear.
+150250000,Spike,Spike
+150410000,Cross Spear,A cross-shaped spear  made to inflict damage  when swung about.
+150450000,Battle Pork,Battle Pork
+150610000,Spetum,A spear that increases  the success rate of  stabbing attack.
+150650000,Spetum,Spetum
+150710000,Long Spear,A spear that is longer  than normal spears.
+150810000,Pike,A normal spear that has  been strengthened.
+150812000,Pike,"A normal spear that has been  strengthened. It was added as  a popular addition, and sold at cheap  prices to NPC mechants."
+150910000,Trident,A spear made by the nomads  of the river.
+150912000,Trident,"A spear made by the nomads of  the river. It was added as  a popular addition, and sold at  cheap prices to NPC mechants."
+151010000,Philum,A spear for throwing.
+151012000,Philum,A spear for javelin throwing.  A popular addition.  Sells cheaply to NPC merchants...
+151110000,Harpoon,A spear that is for  stabbing like a harpoon.
+151111000,Harpoon,A spear that is for stabbing  like a harpoon.
+151112000,Harpoon,"A spear that is for stabbing  like a harpoon. It  was added as a popular addition,  and sold at cheap prices to  NPC mechants."
+151122000,Harpoon,"A spear that is for stabbing  like a harpoon.  It was added as a popular addition,  and sold at cheap prices  to NPC mechants."
+151210000,Totemic Spear,A powerful one-handed spear  that deals double  damage due to sorcery.
+151211000,Totemic Spear,A powerful one-handed spear  that deals double  damage due to sorcery.
+151310000,Exceptional Totemic Spear,A powerful one-handed spear  that deals double  damage due to sorcery.
+151311000,Exceptional Totemic Spear,A powerful one-handed spear  that deals double  damage due to sorcery.
+155310000,Pole Axe,A long spear attached with  an axe blade on one end.
+155350000,Spear Axe,Spear Axe
+155510000,Battle Scythe,A scythe for battle.
+155512000,Battle Scythe,A sickle for combat.  A popular addition.  Sells cheaply to NPC merchants...
+155550000,War Scythe,War Scythe
+155710000,Grim Scythe,A scythe that would  look perfect when wielded  by the Grim Reaper.
+155750000,Harsh Scythe,Harsh Scythe
+155810000,Bill,"A long, pole-axe like  spear that is also  good for stabbing."
+155812000,Bill,"A long, pole-axe like spear  that is also good for stabbing.  It was added as a popular addition,  and sold at cheap prices to  NPC mechants."
+155910000,Halberd,"A long spear that is brandished  to slash at enemies,  taking advantage of the  long reach."
+155912000,Halberd,"A long spear that is brandished  to slash at enemies,  taking advantage of the long reach.  It was added as a popular addition,  and sold at cheap prices to  NPC mechants."
+156010000,Bardish,"A long spear with a peculiar  shaped blade, it is the  ultimate slashing weapon."
+156012000,Bardish,A long spear with unique blades  with excellent performance at  cutting large pieces.  A popular addition.  Sells cheaply to NPC merchants...
+156110000,Glave,"A two-handed weapon that is  a cross between war hammer  and bill, it can be both  slash or stab."
+156111000,Glave,"A two-handed weapon that  is a cross between war hammer and bill,  it can both slash or stab."
+156112000,Glave,"A two-handed weapon that  is a cross between war hammer  and bill, it can both slash  or stab.  It was added as a popular addition,  and sold at cheap prices to  NPC mechants."
+156122000,Glave,"A two-handed weapon that is a cross  between war hammer and bill,  it can both slash or stab.  It was added as a popular addition,  and sold at cheap prices to  NPC mechants."
+156210000,Raptor,Strong Scythe-type weapon  whose violence can also  affects yourself.
+156211000,Raptor,Strong Scythe-type weapon  whose violence can also  affects yourself.
+156219000,Noah Raptor,Strong Scythe-type  weapon whose violence can  also affects yourself.
+156310000,Exceptional Raptor,Strong Scythe-type weapon  whose violence can also  affects yourself.
+156311000,Exceptional Raptor,Strong Scythe-type weapon  whose violence can also  affects yourself.
+159201000,Double Possession,A favorite weapon of barbarians  who enjoy evil conduct.
+159301000,Lugias,Spear made of bones of  the Red Dragon
+159302000,Spear of Murky Waters,Commemoration spear  Made to remember the tragic  event in Eslant.
+159303000,Noah Sad Swamps,Commemoration spear  Made to remember the tragic event  in Eslant.
+159311000,Lugias,Spear made of bones of  the Red Dragon
+159312000,Spear of Murky Waters,Commemoration spear Made  to remember the tragic event  in Eslant.
+159321000,Noah Rugiars,Spear made of bones  of the Red Dragon
+159410000,Undefeatable Nebiros,"<font color=@#FFCC33@>Arch-Nemesis of Krowaz.</font> <font color=@#FFCC33@>The rules of Logos the creator were</font> <font color=@#FFCC33@>thoroughy gripped by him,</font> <font color=@#FFCC33@>and he even understands  the demerits of the rules. </font><font color=@#FF3300@>He even grasps the mind of Draki..</font> -A wanderer"
+159411000,Undefeatable Nebiros,"<font color=@#FFCC33@>Arch-Nemesis of Krowaz.</font> <font color=@#FFCC33@>The rules of Logos the creator were</font> <font color=@#FFCC33@>thoroughy gripped by him,</font> <font color=@#FFCC33@>and he even understands the demerits of the rules.</font> <font color=@#FF3300@>He even grasps the mind of Draki..</font> -A wanderer"
+159420000,Weak Giant Nebiros,"<font color=@#FFCC33@>Arch-Nemesis of Krowaz.</font> <font color=@#FFCC33@>Interpreter of the rules of Logos, he knew them</font> <font color=@#FFCC33@>,</font> <font color=@#FFCC33@>backwards and forwards; even their shortcomings. </font><font color=@#FF3300@>He even grasps the mind of Draki..</font> -A wanderer"
+159421000,Weak Giant Nebiros,"<font color=@#FFCC33@>Arch-Nemesis of Krowaz.</font> <font color=@#FFCC33@>Interpreter of the rules of Logos, he knew them</font> <font color=@#FFCC33@>,</font> <font color=@#FFCC33@>backwards and forwards; even their shortcomings.</font> <font color=@#FF3300@>He even grasps the mind of Draki..</font> -A wanderer"
+159430000,Chaos Nebiros,"<font color=@#FFCC33@>Arch-Nemesis of Krowaz.</font> <font color=@#FFCC33@>Interpreter of the rules of Logos, he knew them</font> <font color=@#FFCC33@>,</font> <font color=@#FFCC33@>backwards and forwards; even their shortcomings. </font><font color=@#FF3300@>He even grasps the mind of Draki..</font> -A wanderer"
+159431000,Chaos Nebiros,"<font color=@#FFCC33@>Arch-Nemesis of Krowaz.</font> <font color=@#FFCC33@>Interpreter of the rules of Logos, he knew them</font> <font color=@#FFCC33@>,</font> <font color=@#FFCC33@>backwards and forwards; even their shortcomings.</font> <font color=@#FF3300@>He even grasps the mind of Draki..</font> -A wanderer"
+159440000,Sweet Kiss Nebiros,"<font color=@#FFCC33@>Arch-Nemesis of Krowaz.</font> <font color=@#FFCC33@>Interpreter of the rules of Logos, he knew them</font> <font color=@#FFCC33@>,</font> <font color=@#FFCC33@>backwards and forwards; even their shortcomings. </font><font color=@#FF3300@>He even grasps the mind of Draki..</font> -A wanderer"
+159441000,Sweet Kiss Nebiros,"<font color=@#FFCC33@>Arch-Nemesis of Krowaz.</font> <font color=@#FFCC33@>Interpreter of the rules of Logos, he knew them</font> <font color=@#FFCC33@>,</font> <font color=@#FFCC33@>backwards and forwards; even their shortcomings.</font> <font color=@#FF3300@>He even grasps the mind of Draki..</font> -A wanderer"
+159539000,Flower Shield,For your love and passion 
+159910000,Noah Undefeatable Nebiros,"<font color=@#FFCC33@>Marce Krowaz’s Foe</font>  <font color=@#FFCC33@>The rules of Logos, the God of Rules were</font>  <font color=@#FFCC33@>thoroughy gripped by him,</font>  <font color=@#FFCC33@>and he even understands the  demerits of the rules.</font><f"
+159920000,Noah Weak Giant Nebiros,"<font color=@#FFCC33@>Marce Krowaz’s Foe</font>  <font color=@#FFCC33@>The rules of Logos, the God of Rules were</font>  <font color=@#FFCC33@>thoroughy gripped by him,</font>  <font color=@#FFCC33@>and he even understands the  demerits of the rules.</font><f"
+159930000,Noah Chaos Nebiros,"<font color=@#FFCC33@>Marce Krowaz’s Foe</font>  <font color=@#FFCC33@>The rules of Logos, the God of Rules were</font>  <font color=@#FFCC33@>thoroughy gripped by him,</font>  <font color=@#FFCC33@>and he even understands the  demerits of the rules.</font><f"
+159940000,Noah Sweet Kiss Nebiros,"<font color=@#FFCC33@>Marce Krowaz’s Foe</font>  <font color=@#FFCC33@>The rules of Logos, the God of Rules were</font>  <font color=@#FFCC33@>thoroughy gripped by him,</font>  <font color=@#FFCC33@>and he even understands the  demerits of the rules.</font><f"
+160100000,Bow,Simple bow that can be  easily made out of any  long branch.
+160150000,Bow,Bow
+160190000,Bow,Simple bow that can be  easily made out of any  long branch.  (Quest Item)
+160210000,Short Bow,A small bow that can  shoot far due to its  elasticity.
+160250000,Bamboo Bow,Bamboo Bow
+160410000,Rapt Bow,A bow with good grip  even for a novice archer.
+160450000,Hunter’s Bow,Hunter’s Bow
+160451000,Hunter’s Bow,
+160610000,Composite Bow,A small bow made by  combining various odd  materials.
+160612000,Composite Bow,A small bow which is made  with many objects.  A popular addition.  Sells cheaply to NPC merchants...
+160650000,Horn Bow,Horn Bow
+161410000,Novice Bow 1,Novice Rogue’s Bow
+161420000,Novice Bow 2,Novice Rogue’s Bow
+161430000,Training Rogue’s Bow 1,Bow for training rogues
+161440000,Training Rogue’s Bow 2,Bow for training rogues
+161450000,Skilled Rogue’s Bow 1,Skilled Rogue’s Bow
+161460000,Skilled Rogue’s Bow 2,Skilled Rogue’s Bow
+161470000,Training Bow,Bow for training rogues
+168110000,Crossbow,A crossbow made of  wood or iron held together  with a cross.
+168112000,Crossbow,A crossbow which you can  draw as a bow after fixing wood  or iron in a cross.  A popular addition.  Sells cheaply to NPC merchants...
+168113000,Crossbow,A crossbow which you can draw  as a bow after fixing wood or  iron in a cross.  A popular addition.  Sells cheaply to NPC merchants...
+168150000,Crossbow,Crossbow
+168210000,Horn Crossbow,A crossbow made of  branch or animal’s bones  held together in a cross  to shoot the arrows.
+168212000,Horn Crossbow,"A crossbow made of branch  or animal’s bones held together  in a cross to shoot the arrows.  It was added as a popular addition,  and sold at cheap prices to  NPC mechants."
+168250000,Horn Crossbow,Horn Crossbow
+168310000,Vortex Bow,It’s a bow with increased penetration by rotating arrows
+168311000,Vortex Bow,It’s a bow with increased penetration by rotating arrows
+168312000,Vortex Bow,It’s a bow with increased penetration by rotating arrows   It’s an item that’s been added to be distributed   It doesn’t contain much value when sold to NPC merchant.
+168322000,Vortex Bow,It’s a bow with increased penetration by rotating arrows   It’s an item that’s been added to be distributed   It doesn’t contain much value when sold to NPC merchant.
+168410000,Iron Bow,A powerful bow that  requires great agility.
+168411000,Iron Bow,A powerful bow that  requires great agility.
+168610000,Exceptional Iron Bow,A powerful bow that  requires great agility.
+168611000,Exceptional Iron Bow,A powerful bow that  requires great agility.
+169010000,Centaur bow,Centaur’s bow
+169101000,Enion Bow,<font color=@#999900@><b>Elf </b></font><font color=@#FFCC99@><b>Enion</b></font><font color=@#999900@><b>’s Bow <font color=@#999900@><b>His hair is said to be  weaved to make the <font color=@#999900@><b> </b></font><font color=@yellow@><b>Enion’s Bow</b></font><font color=@#999900@><b>.</b></font>
+169111000,Enion Bow,<font color=@#999900@><b>Elf </b></font><font color=@#FFCC99@><b>Enion</b></font><font color=@#999900@><b>’s Bow <font color=@#999900@><b>His hair is said to be  weaved to make the <font color=@#999900@><b> </b></font><font color=@yellow@><b>Enion’s Bow</b></font><font color=@#999900@><b>.</b></font>
+169121000,Noah Enion Bow,<font color=@#999900@><b>Elf </b></font><font color=@#FFCC99@><b>Enion</b></font><font color=@#999900@><b>’s Bow <font color=@#999900@><b>His hair is said to be weaved to make the <font color=@#999900@><b> </b></font><font color=@yellow@><b>Enion’s Bow</b></font><font color=@#999900@><b>.</b></font>
+169201000,Matchlock,
+169202000,Death Wing Bow,A bow made to resemble the  wing of the Bird of Death that  inhabits the Death Mountain.  It is said that anyone hit  by an arrow fired from  this bow becomes cursed.
+169205000,Angel’s Hairpin,"Hairpin used to fix the hair of  an ancient angel  An angel loses its beautiful hair  when it starts to degrade.  Then, the hairpin falls down  to the human world."
+169301000,Helenid Cross Bow,Cross bow in the hue  of hell’s rainbow
+169302000,Eagle’s Eye,They say you need sharper  eyes than eagle eyes to fight  against the Dragon tribe who  owns the rough mountain range.
+169303000,Noah Eyes of Rough Mountain Eagle,They say you need sharper  eyes than eagle eyes to fight  against the Dragon tribe who owns  the rough mountain range.
+169311000,Helenid Cross Bow,Cross bow in the hue  of hell’s rainbow
+169312000,Eagle’s Eye,They say you need sharper  eyes than eagle eyes to fight against  the Dragon tribe who owns  the rough mountain range.
+169321000,Noah Herenid Crossbow,Cross bow in the hue  of hell’s rainbow
+169538000,Bouquet,For your love and passion 
+170110000,Small Shield,Small Shield
+170150000,Wooden Shield,Wooden Shield
+170210000,Large Shield,Large Shield
+170211000,Large Shield,
+170250000,Round Shield,
+170251000,Round Shield,
+170310000,Kite Shield,A kite-shaped metal shield.
+170312000,Kite Shield,A kite-shape shield made  from metal.  A popular addition.  Sells cheaply to NPC merchants...
+170350000,Octagon Shield,A shield with many  angular edges.
+170352000,Octagon Shield,"A shield with many angular edges.  It was added as a popular addition,  and sold at cheap prices  to NPC mechants."
+170410000,Large Kite Shield,"A big, wooden kite shield  framed with metal band."
+170412000,Large Kite Shield,"A big, wooden kite shield  framed with metal band.  It was added as a popular addition,  and sold at cheap prices to  NPC mechants."
+170450000,Round Kite Shield,"A big, wooden kite shield  framed with metal band."
+171510000,Plate Shield,A shield made of iron.
+171512000,Plate Shield,"A shield made of iron.  It was added as a popular addition,  and sold at cheap prices to  NPC mechants."
+171550000,Hoplon,"A large, round shield."
+171560000,Sacred Shield,A shield empowered by the divine Spirits of the Piana Knights.
+171570000,Sacred Defender,A shield empowered by the divine Spirits of the Piana Knights.
+171580000,Tentora Shield,A shield enchanted with the magic of the Great Wizard Tentora.
+171590000,Tentora Defender,A shield enchanted with the magic of the Great Wizard Tentora.
+171600000,Edmont Aegis,"Legend tells of an aegis that will survive a lightning strike, summon storms and cause fear in the hearts of the people."
+171610000,Blessing Aegis,"Legend tells of an aegis that will survive a lightning strike, summon storms and cause fear in the hearts of the people."
+171680000,Tentora Shield,A shield enchanted with the magic of the Great Wizard Tentora.
+171690000,Tentora Defender,A shield enchanted with the magic of the Great Wizard Tentora.
+171700000,Edmont Aegis,"Legend tells of an aegis that will survive a lightning strike, summon storms and cause fear in the hearts of the people."
+171710000,Blessing Aegis,"Legend tells of an aegis that will survive a lightning strike, summon storms and cause fear in the hearts of the people."
+179101000,Defender of the Lord,Shield of Zignon  Embedding strong Magical powers.
+179102000,Dread Shield,Holy knights’ Shield Made to  fight evil soldiers of Juraid Mountains.  It seems you could almost hear  their breathing.
+179103000,Noah Juraid Mountain Defense,Holy knights’ Shield  Made to fight evil soldiers  of Juraid Mountains.  It seems you could almost hear  their breathing.
+179111000,Defender of the Lord,Shield of Zignon  Embedding strong Magical powers.
+179112000,Dread Shield,Holy knights’ Shield Made  to fight evil soldiers of Juraid Mountains.  It seems you could almost hear  their breathing.
+179121000,Noah Defender of the Lord,Shield of Zignon.  Said to have embedded Magical powers.
+179201000,Nonflammable Shield,A shield which carries  the blessing of a great monk.
+179202000,Centaur’s Face,"A shield that is created  by modeling Centaur,  a beast in Adonis.  Monsters shiver just looking  at the shield."
+179301000,Syphioric,Lost shield of the Syphiel  Knight Squad
+179311000,Syphioric,Lost shield of the Syphiel  Knight Squad
+179321000,Noah Sipioric,Lost shield of the  Syphiel Knight Squad
+179537000,Bouquet,For your love and passion 
+180010000,Wooden Staff,Basic Magician Item
+180050000,Wooden Staff,Basic Magician Item
+180110000,Wood Staff,Basic wooden Staff.
+180111000,Wood Staff,
+180150000,Orc Staff,Orc Staff
+180190000,Wood Staff,Simple wooden Staff.  (Quest Item)
+180250000,Noah Chitin Shield,
+180310000,Wizard Staff,A Staff often used by wizards.
+180350000,Red Eye Staff,Red Eye Staff
+180410000,Undefeatable Windforce,"<b><font color=@#3399FF@>I like this hill...</font> <font color=@#3399FF@>The wind blows all my cares away...</font> <font color=@#3399FF@>Shame on you, Logos,  for the fate of our tribe.</font> <font color=@#3399FF@>The wind whispers that they are coming,  and that they are but</font><font color=@#FF3300@> Cursed Souls, </font><font color=@#3399FF@>nothing more.</font> </b>-From the scribble on a tombstone..."
+180411000,Undefeatable Windforce,"<b><font color=@#3399FF@>I like this hill...</font> <font color=@#3399FF@>The wind blows all my cares away...</font> <font color=@#3399FF@>Shame on you, Logos, for the fate of our tribe.</font> <font color=@#3399FF@>The wind whispers that they are coming,  and that they are but</font> <font color=@#FF3300@> Cursed Souls, </font><font color=@#3399FF@>nothing more.</font> </b>-From the scribble on a tombstone..."
+180420000,Restricted Diet Windforce,"<b><font color=@#3399FF@>I like this hill...</font> <font color=@#3399FF@>The wind blows all my cares away...</font> <font color=@#3399FF@>Shame on you, Logos,  for the fate of our tribe.</font> <font color=@#3399FF@>The wind whispers that they are coming,  and that they are but</font><font color=@#FF3300@> Cursed Souls, </font><font color=@#3399FF@>nothing more.</font> </b>-From the scribble on a tombstone..."
+180421000,Restricted Diet Windforce,"<b><font color=@#3399FF@>I like this hill...</font> <font color=@#3399FF@>The wind blows all my cares away...</font> <font color=@#3399FF@>Shame on you, Logos, for the fate of our tribe.</font> <font color=@#3399FF@>The wind whispers that they are coming,  and that they are but</font> <font color=@#FF3300@> Cursed Souls, </font><font color=@#3399FF@>nothing more.</font> </b>-From the scribble on a tombstone..."
+180430000,Fire Rain Windforce,"<b><font color=@#3399FF@>I like this hill...</font> <font color=@#3399FF@>The wind blows all my cares away...</font> <font color=@#3399FF@>Shame on you, Logos,  for the fate of our tribe.</font> <font color=@#3399FF@>The wind whispers that they are coming,  and that they are but</font><font color=@#FF3300@> Cursed Souls, </font><font color=@#3399FF@>nothing more.</font> </b>-From the scribble on a tombstone..."
+180431000,Fire Rain Windforce,"<b><font color=@#3399FF@>I like this hill...</font> <font color=@#3399FF@>The wind blows all my cares away...</font> <font color=@#3399FF@>Shame on you, Logos, for the fate of our tribe.</font> <font color=@#3399FF@>The wind whispers that they are coming,  and that they are but</font> <font color=@#FF3300@> Cursed Souls, </font><font color=@#3399FF@>nothing more.</font> </b>-From the scribble on a tombstone..."
+180440000,Weak Giant Windforce,"<b><font color=@#3399FF@>I like this hill...</font> <font color=@#3399FF@>The wind blows all my cares away...</font> <font color=@#3399FF@>Shame on you, Logos,  for the fate of our tribe.</font> <font color=@#3399FF@>The wind whispers that they are coming,  and that they are but</font><font color=@#FF3300@> Cursed Souls, </font><font color=@#3399FF@>nothing more.</font> </b>-From the scribble on a tombstone..."
+180441000,Weak Giant Windforce,"<b><font color=@#3399FF@>I like this hill...</font> <font color=@#3399FF@>The wind blows all my cares away...</font> <font color=@#3399FF@>Shame on you, Logos, for the fate of our tribe.</font> <font color=@#3399FF@>The wind whispers that they are coming,  and that they are but</font> <font color=@#FF3300@> Cursed Souls, </font><font color=@#3399FF@>nothing more.</font> </b>-From the scribble on a tombstone..."
+180450000,Lousy Pickpocket Windforce,"<b><font color=@#3399FF@>I like this hill...</font> <font color=@#3399FF@>The wind blows all my cares away...</font> <font color=@#3399FF@>Shame on you, Logos,  for the fate of our tribe.</font> <font color=@#3399FF@>The wind whispers that they are coming,  and that they are but</font><font color=@#FF3300@> Cursed Souls, </font><font color=@#3399FF@>nothing more.</font> </b>-From the scribble on a tombstone..."
+180451000,Lousy Pickpocket Windforce,"<b><font color=@#3399FF@>I like this hill...</font> <font color=@#3399FF@>The wind blows all my cares away...</font> <font color=@#3399FF@>Shame on you, Logos, for the fate of our tribe.</font> <font color=@#3399FF@>The wind whispers that they are coming,  and that they are but</font> <font color=@#FF3300@> Cursed Souls, </font><font color=@#3399FF@>nothing more.</font> </b>-From the scribble on a tombstone..."
+180510000,Mythril Staff,A Staff made with a little  amount of mythril diluted in.
+180550000,Bone Staff,Bone Staff
+180610000,Mage Staff,A Staff often used by wizards.
+180710000,Alchemy Staff,A Staff that was also used  as a ritual element  for alchemy.
+180810000,Elemental Staff,A Staff made of various  materials and has high  durability.
+180812000,Elemental Staff,"A Staff made of various  materials and has high durability.  It was added as a popular addition,  and sold at cheap prices to  NPC mechants."
+180910000,Viper Staff,A Staff used exclusively  by evil wizards.
+180912000,Viper Staff,"A Staff used exclusively  by evil wizards.  It was added as a popular addition,  and sold at cheap prices to  NPC mechants."
+180920000,Noah Restricted Diet Windforce,"<b><font color=@#3399FF@>I... Like this hill...</font>  <font color=@#3399FF@>All my resentments seem to get blown  away as I enjoy the breeze here...</font>  <font color=@#3399FF@>Our resentment toward the god Logos...  And regarding the fate of our race...</font>  <font color=@#3399FF@>The wind seems to whisper to me, that... They are just </font> <font color=@#FF3300@>Devils</font><font color=@#3399FF@>, that’s all...</font> </b> -From some scribbles on  a tombstone..."
+180930000,Noah Fire Rain Windforce,"<b><font color=@#3399FF@>I... Like this hill...</font>  <font color=@#3399FF@>All my resentments seem to get blown  away as I enjoy the breeze here...</font>  <font color=@#3399FF@>Our resentment toward the god Logos...  And regarding the fate of our race...</font>  <font color=@#3399FF@>The wind seems to whisper to me, that... They are just </font> <font color=@#FF3300@>Devils</font><font color=@#3399FF@>, that’s all...</font> </b> -From some scribbles on  a tombstone..."
+180940000,Noah Weak Giant Windforce,"<b><font color=@#3399FF@>I... Like this hill...</font>  <font color=@#3399FF@>All my resentments seem to get blown  away as I enjoy the breeze here...</font>  <font color=@#3399FF@>Our resentment toward the god Logos...  And regarding the fate of our race...</font>  <font color=@#3399FF@>The wind seems to whisper to me, that... They are just </font> <font color=@#FF3300@>Devils</font><font color=@#3399FF@>, that’s all...</font> </b> -From some scribbles on  a tombstone..."
+180950000,Noah Lousy Pickpocket Windforce,"<b><font color=@#3399FF@>I... Like this hill...</font>  <font color=@#3399FF@>All my resentments seem to get blown  away as I enjoy the breeze here...</font>  <font color=@#3399FF@>Our resentment toward the god Logos...  And regarding the fate of our race...</font>  <font color=@#3399FF@>The wind seems to whisper to me, that... They are just </font> <font color=@#FF3300@>Devils</font><font color=@#3399FF@>, that’s all...</font> </b> -From some scribbles on  a tombstone..."
+180960000,Noah Undefeatable Windforce,"<b><font color=@#3399FF@>I... Like this hill...</font>  <font color=@#3399FF@>All my resentments seem to get blown  away as I enjoy the breeze here...</font>  <font color=@#3399FF@>Our resentment toward the god Logos...  And regarding the fate of our race...</font>  <font color=@#3399FF@>The wind seems to whisper to me, that... They are just </font> <font color=@#FF3300@>Devils</font><font color=@#3399FF@>, that’s all...</font> </b> -From some scribbles on  a tombstone..."
+181010000,Salamander Staff,A Staff imbued with the  power of fiery sand.
+181011000,Salamander Staff,A Staff imbued with  the power of fiery snake.
+181012000,Salamander Staff,"A Staff imbued with the power  of fiery snake.  It was added as a popular addition,  and sold at cheap prices to  NPC mechants."
+181022000,Salamander Staff,"A Staff imbued with the power of  fiery snake. It was added as  a popular addition, and sold at  cheap prices to NPC mechants."
+181110000,Elixir Staff,A Magical Staff imbued  with the power of  immortality by using alchemy.
+181111000,Elixir Staff,A Magical Staff imbued  with the power of  immortality by using alchemy.
+181210000,Exceptional Elixir Staff,A Magical Staff imbued  with the power of  immortality by using alchemy.
+181211000,Exceptional Elixir Staff,A Magical Staff imbued  with the power of  immortality by using alchemy.
+181420000,Novice Staff 2,Novice Magician’s Staff
+181430000,Training Magician’s Staff 1,Training Magician’s Staff
+181440000,Training Magician’s Staff 2,Training Magician’s Staff
+181450000,Skilled Magician’s Staff 1,Skilled Magician’s Staff
+181460000,Skilled Magician’s Staff 2,Skilled Magician’s Staff
+181470000,Novice Staff 1,Novice Magician’s Staff
+181480000,Training Staff ,Training Magician’s Staff
+181510000,Decayed Bone Staff,
+182110000,Deruvish cane,Deruvish cane
+182410000,Undefeatable Fulitol,"<b><font color=@#FFCC33@>Krowaz’s first class Cursed Soul</font> </b><b><font color=@#FF3300@>Fire King, and</font><font color=@#FFCC33@> Keeper of the Flame.</font> <font color=@#3399FF@>..Fulitol gave us fire,</font> <font color=@#3399FF@>and we are no longer the children of Logos</font> </b>-From the second lost page.."
+182411000,Undefeatable Fulitol,"<b><font color=@#FFCC33@>Krowaz’s first class Cursed Soul</font> </b><b><font color=@#FF3300@>Fire King, and</font><font color=@#FFCC33@> Keeper of the Flame.</font> <font color=@#3399FF@>..Fulitol gave us fire,</font> <font color=@#3399FF@>and we are no longer the children of Logos</font> </b>-From the second lost page.."
+182420000,Trainer Kate Fulitol,"<b><font color=@#FFCC33@>Krowaz’s first class Cursed Soul</font> </b><b><font color=@#FF3300@>Fire King, and</font><font color=@#FFCC33@> Keeper of the Flame.</font> <font color=@#3399FF@>..Fulitol gave us fire,</font> <font color=@#3399FF@>and we are no longer the children of Logos</font> </b>-From the second lost page.."
+182421000,Trainer Kate Fulitol,"<b><font color=@#FFCC33@>Krowaz’s first class Cursed Soul</font> </b><b><font color=@#FF3300@>Fire King, and</font><font color=@#FFCC33@> Keeper of the Flame.</font> <font color=@#3399FF@>..Fulitol gave us fire,</font> <font color=@#3399FF@>and we are no longer the children of Logos</font> </b>-From the second lost page.."
+182430000,Aztec Gold Fulitol,"<b><font color=@#FFCC33@>Krowaz’s first class Cursed Soul</font> </b><b><font color=@#FF3300@>Fire King, and</font><font color=@#FFCC33@> Keeper of the Flame.</font> <font color=@#3399FF@>..Fulitol gave us fire,</font> <font color=@#3399FF@>and we are no longer the children of Logos</font> </b>-From the second lost page.."
+182431000,Aztec Gold Fulitol,"<b><font color=@#FFCC33@>Krowaz’s first class Cursed Soul</font> </b><b><font color=@#FF3300@>Fire King, and</font><font color=@#FFCC33@> Keeper of the Flame.</font> <font color=@#3399FF@>..Fulitol gave us fire,</font> <font color=@#3399FF@>and we are no longer the children of Logos</font> </b>-From the second lost page.."
+182910000,Noah Undefeatable Fulitol,"<b><font color=@#FFCC33@>One of Marce Krowaz’s first  class NightMares</font> </b> <b><font color=@#FF3300@>Fire Nation’s Governor</font> <font color=@#FFCC33@> and the King of Fire.</font>  <font color=@#3399FF@>... As Fulitol gave us the fire,</font>  <font color=@#3399FF@> we are no longer the children of Logos...</font> </b> -From the Second Lost Page..."
+182920000,Noah Trainer Kate Fulitol,"<b><font color=@#FFCC33@>One of Marce Krowaz’s first  class NightMares</font> </b> <b><font color=@#FF3300@>Fire Nation’s Governor</font> <font color=@#FFCC33@> and the King of Fire.</font>  <font color=@#3399FF@>... As Fulitol gave us the fire,</font>  <font color=@#3399FF@> we are no longer the children of Logos...</font> </b> -From the Second Lost Page..."
+182930000,Noah Aztec Gold Fulitol,"<b><font color=@#FFCC33@>One of Marce Krowaz’s first  class NightMares</font> </b> <b><font color=@#FF3300@>Fire Nation’s Governor</font> <font color=@#FFCC33@> and the King of Fire.</font>  <font color=@#3399FF@>... As Fulitol gave us the fire,</font>  <font color=@#3399FF@> we are no longer the children of Logos...</font> </b> -From the Second Lost Page..."
+183230000,Aztec Gold Molok,"<b><font color=@#FFCC33@>Krowaz’s main priestess.</font> </b><b><font color=@#3399FF@>She is called the Queen of Tears</font><font color=@#FFCC33@>, betrayer</font> <font color=@#FFCC33@>of Logos, </font> <font color=@#FFCC33@>the creator</font><font color=@#FF3300@> who never </font><font color=@#FFCC33@>forgives.</font> </b>-From the second lost page.."
+183231000,Aztec Gold Molok,"<b><font color=@#FFCC33@>Krowaz’s main priestess.</font> </b><b><font color=@#3399FF@>She is called the Queen of Tears</font><font color=@#FFCC33@>, betrayer</font> <font color=@#FFCC33@>of Logos, </font> <font color=@#FFCC33@>the creator</font><font color=@#FF3300@> who never </font><font color=@#FFCC33@>forgives.</font> </b>-From the second lost page.."
+183410000,Undefeatable Molok,"<b><font color=@#FFCC33@>Krowaz’s main priestess.</font> </b><b><font color=@#3399FF@>She is called the Queen of Tears</font><font color=@#FFCC33@>, betrayer</font> <font color=@#FFCC33@>of Logos, </font> <font color=@#FFCC33@>the creator</font><font color=@#FF3300@> who never </font><font color=@#FFCC33@>forgives.</font> </b>-From the second lost page.."
+183411000,Undefeatable Molok,"<b><font color=@#FFCC33@>Krowaz’s main priestess.</font> </b><b><font color=@#3399FF@>She is called the Queen of Tears</font><font color=@#FFCC33@>, betrayer</font> <font color=@#FFCC33@>of Logos, </font> <font color=@#FFCC33@>the creator</font><font color=@#FF3300@> who never </font><font color=@#FFCC33@>forgives.</font> </b>-From the second lost page.."
+183420000,Trainer Kate Molok,"<b><font color=@#FFCC33@>Krowaz’s main priestess.</font> </b><b><font color=@#3399FF@>She is called the Queen of Tears</font><font color=@#FFCC33@>, betrayer</font> <font color=@#FFCC33@>of Logos, </font> <font color=@#FFCC33@>the creator</font><font color=@#FF3300@> who never </font><font color=@#FFCC33@>forgives.</font> </b>-From the second lost page.."
+183421000,Trainer Kate Molok,"<b><font color=@#FFCC33@>Krowaz’s main priestess.</font> </b><b><font color=@#3399FF@>She is called the Queen of Tears</font><font color=@#FFCC33@>, betrayer</font> <font color=@#FFCC33@>of Logos, </font> <font color=@#FFCC33@>the creator</font><font color=@#FF3300@> who never </font><font color=@#FFCC33@>forgives.</font> </b>-From the second lost page.."
+183730000,Noah Aztec Gold Molok,"<b><font color=@#FFCC33@>A priestress who was close  to Marce Krowaz.</font> </b> <b><font color=@#3399FF@>She was called the Queen of Tears Kingdom,</font> <font color=@#FFCC33@> and</font> <font color=@#FFCC33@> soon the bloody tears of Drakis began  to draw their </font> <font color=@#FFCC33@>creator, </font><font color=@#FF3300@> Logos.</font></b> -From the Second Lost Page..."
+183910000,Noah Undefeatable Molok,"<b><font color=@#FFCC33@>A priestress who was close  to Marce Krowaz.</font> </b> <b><font color=@#3399FF@>She was called the Queen of Tears Kingdom,</font> <font color=@#FFCC33@> and</font> <font color=@#FFCC33@> soon the bloody tears of Drakis began  to draw their </font> <font color=@#FFCC33@>creator, </font><font color=@#FF3300@> Logos.</font></b> -From the Second Lost Page..."
+183920000,Noah Trainer Kate Molok,"<b><font color=@#FFCC33@>A priestress who was close  to Marce Krowaz.</font> </b> <b><font color=@#3399FF@>She was called the Queen of Tears Kingdom,</font> <font color=@#FFCC33@> and</font> <font color=@#FFCC33@> soon the bloody tears of Drakis began  to draw their </font> <font color=@#FFCC33@>creator, </font><font color=@#FF3300@> Logos.</font></b> -From the Second Lost Page..."
+184410000,Undefeatable Faun,<b><font color=@#FFCC33@>Krowaz’s </font><font color=@lime@>night-hag</font><font color=@#FFCC33@>.</font></b> <b><font color=@#FFCC33@>When my knife is stabbing the chest of the God of Logos</font> <font color=@#3399FF@>..Who am I? And Where am I?</font> <font color=@#3399FF@>And you? My arms? Why am I smiling?</font> </b>-From Faun’s diary..
+184411000,Undefeatable Faun,<b><font color=@#FFCC33@>Krowaz’s </font><font color=@lime@>night-hag</font><font color=@#FFCC33@>.</font> </b><b><font color=@#FFCC33@>When my knife is stabbing the chest of  the God of Logos</font> <font color=@#3399FF@>..Who am I? And Where am I?</font> <font color=@#3399FF@>And you? My arms? Why am I smiling?</font> </b>-From Faun’s diary..
+184420000,Trainer Kate Faun,<b><font color=@#FFCC33@>Krowaz’s </font><font color=@lime@>night-hag</font><font color=@#FFCC33@>.</font></b> <b><font color=@#FFCC33@>When my knife is stabbing the chest of the God of Logos</font> <font color=@#3399FF@>..Who am I? And Where am I?</font> <font color=@#3399FF@>And you? My arms? Why am I smiling?</font> </b>-From Faun’s diary..
+184421000,Trainer Kate Faun,<b><font color=@#FFCC33@>Krowaz’s </font><font color=@lime@>night-hag</font><font color=@#FFCC33@>.</font> </b><b><font color=@#FFCC33@>When my knife is stabbing the chest of  the God of Logos</font> <font color=@#3399FF@>..Who am I? And Where am I?</font> <font color=@#3399FF@>And you? My arms? Why am I smiling?</font> </b>-From Faun’s diary..
+184430000,Aztec Gold Faun,<b><font color=@#FFCC33@>Krowaz’s </font><font color=@lime@>night-hag</font><font color=@#FFCC33@>.</font></b> <b><font color=@#FFCC33@>When my knife is stabbing the chest of the God of Logos</font> <font color=@#3399FF@>..Who am I? And Where am I?</font> <font color=@#3399FF@>And you? My arms? Why am I smiling?</font> </b>-From Faun’s diary..
+184431000,Aztec Gold Faun,<b><font color=@#FFCC33@>Krowaz’s </font><font color=@lime@>night-hag</font><font color=@#FFCC33@>.</font> </b><b><font color=@#FFCC33@>When my knife is stabbing the chest of  the God of Logos</font> <font color=@#3399FF@>..Who am I? And Where am I?</font> <font color=@#3399FF@>And you? My arms? Why am I smiling?</font> </b>-From Faun’s diary..
+184910000,Noah Undefeatable Faun,<b><font color=@#FFCC33@>Marce Krowaz’s </font> <font color=@lime@>Night-Hag</font><font color=@#FFCC33@> King</font> </b><b><font color=@#FFCC33@> As I stab the heart of god  Logos with my knife</font>  <font color=@#3399FF@>... Who am I? And where is this place?</font>  <font color=@#3399FF@> And who are you? My arms?  Why am I smiling?</font></b> -From Faun’s diary..
+184920000,Noah Trainer Kate Faun,<b><font color=@#FFCC33@>Marce Krowaz’s </font> <font color=@lime@>Night-Hag</font><font color=@#FFCC33@> King</font> </b><b><font color=@#FFCC33@> As I stab the heart of god  Logos with my knife</font>  <font color=@#3399FF@>... Who am I? And where is this place?</font>  <font color=@#3399FF@> And who are you? My arms?  Why am I smiling?</font></b> -From Faun’s diary..
+184930000,Noah Aztec Gold Faun,<b><font color=@#FFCC33@>Marce Krowaz’s </font> <font color=@lime@>Night-Hag</font><font color=@#FFCC33@> King</font> </b><b><font color=@#FFCC33@> As I stab the heart of god  Logos with my knife</font>  <font color=@#3399FF@>... Who am I? And where is this place?</font>  <font color=@#3399FF@> And who are you? My arms?  Why am I smiling?</font></b> -From Faun’s diary..
+189101000,Wrath of Erenion,<b><font color=@#CC9933@>The Palace Magician </font><font color=@#FFFF33@>Erenion</font> <font color=@#CC9933@> <b><font color=@#CC9933@>His wrath resides in this  powerful </font><font color=@#FF3300@>Fire</font><font color=@#CC9933@> Staff.</font></b>
+189102000,Oasis Staff,Cane claimed to be once  owned by Deruvish As the owner of  the scorched land the powerful Magical  beings wander around the  Eslant Desert.
+189103000,Noah Oasis of Scorched Desert,Cane claimed to be once owned  by Deruvish As the owner of  the scorched land the powerful Magical  beings wander around the  Eslant Desert.
+189111000,Wrath of Erenion,<b><font color=@#CC9933@>The Palace Magician </font><font color=@#FFFF33@>Erenion</font> <font color=@#CC9933@> <b><font color=@#CC9933@>His wrath resides in this  powerful </font><font color=@#FF3300@>Fire</font><font color=@#CC9933@> Staff.</font></b>
+189112000,Oasis Staff,Cane claimed to be once  owned by Deruvish As the owner of  the scorched land the powerful Magical  beings wander around the  Eslant Desert.
+189121000,Noah Erenion’s Anger,Contains strong flame power.
+189201000,Glacier Erenion,<b><font color=@#CC9933@>The Palace Magician </font><font color=@#FFFF33@>Erenion</font> <font color=@#CC9933@> <b><font color=@#CC9933@>His glacial blood is contained  in this powerful </font></b><font color=@#00CCFF@>Glacial<font color=@#CC9933@><b><font color=@#CC9933@> Staff.</font></b></font></b>
+189202000,Chaotic Staff,Cane claimed to be once  owned by Deruvish As the owner of  the scorched land the powerful Magical  beings wander around the  Eslant Desert.
+189203000,Noah Chaos of Scorched Desert,Cane claimed to be once owned  by Deruvish As the owner of  the scorched land the powerful Magical  beings wander around the  Eslant Desert.
+189211000,Glacial Erenion,<b><font color=@#CC9933@>The Palace Magician </font><font color=@#FFFF33@>Erenion</font> <font color=@#CC9933@> <b><font color=@#CC9933@>His glacial blood is contained  in this powerful </font></b><font color=@#00CCFF@>Glacial<font color=@#CC9933@><b><font color=@#CC9933@> Staff.</font></b></font></b>
+189212000,Chaotic Staff,Cane claimed to be once  owned by Deruvish As the owner of  the scorched land the powerful Magical  beings wander around the  Eslant Desert.
+189221000,Glacier of Noah Erenion,Contains strong glacier power.
+189301000,Lightning Erenion,<b><font color=@#CC9933@>The Palace Magician </font><font color=@#FFFF33@>Erenion</font> <font color=@#CC9933@> <b><font color=@#CC9933@>His cruelty permeates this powerful </font></b><font color=@#FFFF99@>Lightning<font color=@#CC9933@><b><font color=@#CC9933@> Staff.</font></b></font></b>
+189302000,Scorching Staff,Cane claimed to be once  owned by Deruvish As the owner of  the scorched land the powerful Magical  beings wander around the  Eslant Desert.
+189303000,Noah Thirst of Scorched Desert,Cane claimed to be once owned  by Deruvish As the owner of  the scorched land the powerful Magical  beings wander around the  Eslant Desert.
+189311000,Lightning Erenion,<b><font color=@#CC9933@>The Palace Magician </font><font color=@#FFFF33@>Erenion</font> <font color=@#CC9933@> <b><font color=@#CC9933@>His cruelty permeates this powerful </font></b><font color=@#FFFF99@>Lightning<font color=@#CC9933@><b><font color=@#CC9933@> Staff.</font></b></font></b>
+189312000,Scorching Staff,Cane claimed to be once  owned by Deruvish As the owner of  the scorched land the powerful Magical  beings wander around the  Eslant Desert.
+189321000,Cruelty of Noah Erenion,Contains strong lightning power.
+189401000,Ron’s Staff,<b><font color=@#CC9933@>Magician of Brisbia</font><font color=@#CC6699@> Ron</font><font color=@#CC9933@>. <b><font color=@#CC9933@>Said to have been missing since  his battle against manticore. <b><font color=@#CC9933@>His </font><font color=@#CC99FF@>knowledge</font><font color=@#CC9933@> still remains.</font></b>
+189411000,Ron’s Staff,<b><font color=@#CC9933@>Magician of Brisbia</font><font color=@#CC6699@> Ron</font><font color=@#CC9933@>. <b><font color=@#CC9933@>Said to have been missing since  his battle against manticore. <b><font color=@#CC9933@>His </font><font color=@#CC99FF@>knowledge</font><font color=@#CC9933@> still remains.</font></b>
+189421000,Noah Ron’s Intelligence,<b><font color=@#CC9933@>Magician of Brisbia</font><font color=@#CC6699@>Ron</font><font color=@#CC9933@>. <b><font color=@#CC9933@>Said to have been missing since his battle against manticore. <b><font color=@#CC9933@>His </font> <font color=@#CC99FF@>knowledge</font><font color=@#CC9933@> still remains.</font></b>
+189501000,Monk’s Staff of Destruction,A great priest designed it.
+189503000,Magic Cleaning Tool,A broomstick which is made  with hairs of magician  Originally used as a cleaning tool  But also effective to increase MP
+189504000,Magical Umbrella," You can stand under my Umbrella, ella, ella, ella. "
+189601000,Hell Blood,<p><font color=@#FFCC33@><b>7 of </b></font><font color=@#9933FF@><b>God of Disaster</b></font><font color=@#FFCC33@><b> that is calling for </b></font></p><p><font color=@#9999FF@><b>Ancient Blood Ritual</b></font><font color=@#FFCC33@><b> Staff</b></font></p>
+189602000,Garp,<p><b><font color=@#FF0033@>Cypher</font><font color=@#FFCC33@>’s Remnants of Consciousness is contained so that </font></b></p><p><b><font color=@#FFCC33@>the will power will be </font><font color=@#00CCFF@>lost</font><font color=@#FFCC33@> instantly</font></b></p>
+189603000,Elysium,"<p><b><font color=@#FFCC33@>Among the 7 disasters,  </font><font color=@#99FF33@>Envy</font><font color=@#FFCC33@>’s desire to destroy.</font></b></p>"
+189611000,Hell Blood,<p><font color=@#FFCC33@><b>7 of </b></font><font color=@#9933FF@><b>God of Disaster</b></font><font color=@#FFCC33@><b> that is calling for </b></font></p><p><font color=@#9999FF@><b>Ancient Blood Ritual</b></font><font color=@#FFCC33@><b> Staff</b></font></p>
+189612000,Garp,<p><b><font color=@#FF0033@>Cypher</font><font color=@#FFCC33@>’s Remnants of Consciousness is contained so that </font></b></p><p><b><font color=@#FFCC33@>the will power will be </font><font color=@#00CCFF@>lost</font><font color=@#FFCC33@> instantly</font></b></p>
+189613000,Elysium,"<p><b><font color=@#FFCC33@>Among the 7 disasters,  </font><font color=@#99FF33@>Envy</font><font color=@#FFCC33@>’s desire to destroy.</font></b></p>"
+189621000,Noah Hell Blood,<p><font color=@#FFCC33@><b>7 of </b></font><font color=@#9933FF@><b>God of Disaster</b></font><font color=@#FFCC33@><b> that is calling for </b></font></p><p><font color=@#9999FF@><b>Ancient Blood Ritual</b></font><font color=@#FFCC33@><b> Staff</b></font></p>
+189622000,Noah Garuph,<p><b><font color=@#FF0033@>Cypher</font><font color=@#FFCC33@>’s Remnants of Consciousness is contained so that </font></b></p><p><b><font color=@#FFCC33@>the will power will be </font><font color=@#00CCFF@>lost</font><font color=@#FFCC33@>instantly</font></b></p>
+189623000,Noah Eregium,"<p><b><font color=@#FFCC33@>Among the 7 disasters, </font> <font color=@#99FF33@>Envy</font><font color=@#FFCC33@>’s desire to destroy.</font></b></p>"
+190010000,Priest Mace,Basic Priest Item
+190050000,Priest Mace,Basic Priest Item
+190210000,Priest Maul,A maul that has been  modified to be more  convenient for priests.
+190250000,Priest Morning Star,
+190251000,Priest Morning Star,
+190290000,Priest Maul,Maul that has been  modified to be more  convenient for priests.  (Quest Item)
+190410000,Priest Mace,A mace that has been  modified to be more  convenient for priests.
+190450000,Priest Iron Star,Priest Iron Star
+190610000,Priest War Hammer,A hammer that has been  modified to be more  convenient for priests.
+190611000,Priest War Hammer,
+190612000,Priest War Hammer,A hammer upgraded for a priest. A popular addition. Sells cheaply to NPC merchants...
+190650000,Priest Spike Club,Priest Spike Club
+190710000,Priest Breaker,A Breaker that has  been modified to be more  convenient for priests.
+190712000,Priest Breaker,A Breaker upgraded  for a priest.  A popular addition.  Sells cheaply to NPC merchants...
+190810000,Priest Hacker,A hacker that has  been modified to be  convenient for priests.
+190812000,Priest Hacker,"A hacker that has been modified  to be convenient for priests.  It was added as a popular addition,  and sold at cheap prices  to NPC mechants."
+190910000,Priest Cracker,A cracker that has  been modified to be more  convenient for priests.
+190912000,Priest Cracker,"A cracker that has been modified  to be more convenient for priests.  It was added as a popular addition,  and sold at cheap prices  to NPC mechants."
+191010000,Priest Bone crasher,A crasher that has  been modified to be more  convenient for priests.
+191011000,Priest Bone crasher,A crasher that has  been modified to be more  convenient for priests.
+191012000,Priest Bone crasher,"A crasher that has been modified  to be more convenient for priests.  It was added as a popular addition,  and sold at cheap prices  to NPC mechants."
+191022000,Priest Bone crasher,"A crasher that has been modified  to be more convenient for priests.  It was added as a popular addition,  and sold at cheap prices  to NPC mechants."
+191110000,Priest Impact,An impact that has  been modified to be more  convenient for priests.
+191111000,Priest Impact,An impact that has  been modified to be more  convenient for priests.
+191112000,Priest Impact,An impact upgraded  for a priest.  A popular addition.  Sells cheaply to NPC merchants...
+191113000,Priest Impact,An impact upgraded for  a priest.  A popular addition.  Sells cheaply to NPC merchants...
+191210000,Exceptional Priest Impact,An impact that has  been modified to be more  convenient for priests.
+191211000,Exceptional Priest Impact,An impact that has  been modified to be more  convenient for priests.
+191304000,New El Morad Weapon,
+191305000,Hrunting,A legendary weapon crafted by collecting Fragments of Chaos found in Chaos.
+191306000,Ascalon,A legendary weapon crafted by collecting Fragments of Chaos found in Chaos.
+191307000,Gungnir,A legendary weapon crafted by collecting Fragments of Chaos found in Chaos.
+191308000,Saronga,A legendary weapon crafted by collecting Fragments of Chaos found in Chaos.
+191309000,Kerykeion,A legendary weapon crafted by collecting Fragments of Chaos found in Chaos.
+191310000,Mj?lnir,A legendary weapon crafted by collecting Fragments of Chaos found in Chaos.
+191311000,Aegis,A legendary weapon crafted by collecting Fragments of Chaos found in Chaos.
+191319000,Bamboo,
+191320000,Skewer,
+191329000,Smart Castellans sword,Delos Castellan has used it.
+191330000,Stern Castellans sword,Delos Castellan has used it.
+191331000,Determined decision,Delos Castellan has used it.
+191332000,Book of Wisdom (Fire),Delos Castellan has used it.
+191333000,Book of Wisdom (Ice),Delos Castellan has used it.
+191334000,Book of Wisdom (Lightning),Delos Castellan has used it.
+191335000,Castellans teachings,Delos Castellan has used it.
+191336000,Dignity of Castellan,Delos Castellan has used it.
+191346000,Rods,Tools for fishing
+191347000,Golden Fishing rod,Fishing tools necessary for
+191402000,New Karus Weapon,
+191410000,Novice Mace 1,Novice Priest’s Mace
+191420000,Novice Mace 2,Novice Priest’s Mace
+191429000,Smart Castellans sword,Delos Castellan has used it.
+191430000,Training Priest Mace 1,Training Priest’s Mace
+191431000,Stern Castellans sword,Delos Castellan has used it.
+191432000,Determined decision,Delos Castellan has used it.
+191433000,Book of Wisdom (Fire),Delos Castellan has used it.
+191434000,Book of Wisdom (Ice),Delos Castellan has used it.
+191435000,Book of Wisdom (Lightning),Delos Castellan has used it.
+191436000,Castellans teaching,Delos Castellan has used it.
+191437000,Dignity of Castellan,Delos Castellan has used it.
+191438000,Intelligent guardian’s ax,Heard that Castellan Delos used it.
+191439000,Intelligent guardian’s ax,Heard that Castellan Delos used it.
+191440000,Training Priest Mace 2,Training Priest’s Mace
+191450000,Skilled Priest Mace 1,Skilled Priest’s Mace
+191460000,Skilled Priest Mace 2,Skilled Priest’s Mace
+191470000,Training Mace,Training Priest’s Mace
+191600000,Halloween’s star cane,Abracadabra
+191610000,Halloween Spear,Abracadabra
+191620000,Halloween Cane,Abracadabra
+191630000,Halloween Spear,Abracadabra
+191640000,Huge fan,
+197410000,Gab’s Adamant,"<b><font color=@#FFCC33@>This Cursed Soul is not under Krowaz’s control</font> <font color=@#FF3300@>but comes from one of the major noble classes</font><font color=@#FFCC33@>.</font> <font color=@#FFCC33@>It has hundreds of faces, and ruled the western part of the world.</font> <font color=@#FFCC33@>He seldom talks to Drakis.</font> </b>-From the torn record of Draki.."
+197411000,Gab’s Adamant,"<b><font color=@#FFCC33@>This Cursed Soul is not under Krowaz’s control</font> <font color=@#FF3300@>but comes from one of the major  noble classes</font><font color=@#FFCC33@>.</font> <font color=@#FFCC33@>It has hundreds of faces, and  ruled the western part of the world.</font> <font color=@#FFCC33@>He seldom talks to Drakis.</font> </b>-From the torn record of Draki.."
+197420000,Gab’s Blessing,"<b><font color=@#FFCC33@>This Cursed Soul is not under Krowaz’s control</font> <font color=@#FF3300@>but comes from one of the major noble classes</font><font color=@#FFCC33@>.</font> <font color=@#FFCC33@>It has hundreds of faces, and ruled the western part of the world.</font> <font color=@#FFCC33@>He seldom talks to Drakis.</font> </b>-From the torn record of Draki.."
+197421000,Gab’s Blessing,"<b><font color=@#FFCC33@>This Cursed Soul is not under Krowaz’s control</font> <font color=@#FF3300@>but comes from one of the major  noble classes</font><font color=@#FFCC33@>.</font> <font color=@#FFCC33@>It has hundreds of faces, and  ruled the western part of the world.</font> <font color=@#FFCC33@>He seldom talks to Drakis.</font> </b>-From the torn record of Draki.."
+197910000,Noah Gab’s Adamant,"<b><font color=@#FFCC33@>Not a NightMare under direct service  of Marce Krowaz, but was </font>  <font color=@#FF3300@>one of the highest noble class</font><font color=@#FFCC33@> devils.</font>  <font color=@#FFCC33@>It had hundreds of faces,  and ruled the western part of the world.</font>  <font color=@#FFCC33@> It sometimes conversed with the Drakis.</font> </b> -From the torn records of Drakis..."
+197920000,Noah Gab’s Blessing,"<b><font color=@#FFCC33@>Not a NightMare under direct service  of Marce Krowaz, but was </font>  <font color=@#FF3300@>one of the highest noble class</font><font color=@#FFCC33@> devils.</font>  <font color=@#FFCC33@>It had hundreds of faces,  and ruled the western part of the world.</font>  <font color=@#FFCC33@> It sometimes conversed with the Drakis.</font> </b> -From the torn records of Drakis..."
+197930000,Karus Guardian’s Weapon,Karus Guardian’s Weapon
+198410000,Undefeatable Leonar,"<b><font color=@#FFCC33@>Krowaz’s first class Cursed Soul, </font> </b><b><font color=@#FFCC33@>Elder Lord of the witch gathering,  lord of black magic</font> <font color=@#3399FF@>..Do not tell us, for we already know.</font> <font color=@#3399FF@>With this power, the rules will change</font><font color=@#FF3300@> forever</font><font color=@#3399FF@> ....</font> </b>-From the second lost page.."
+198411000,Undefeatable Leonar,"<b><font color=@#FFCC33@>Krowaz’s first class Cursed Soul, </font> </b><b><font color=@#FFCC33@>Elder Lord of the witch gathering,  lord of black magic</font> <font color=@#3399FF@>..Do not tell us, for we already know.</font> <font color=@#3399FF@>With this power, the rules will change</font><font color=@#FF3300@> forever</font><font color=@#3399FF@> ....</font> </b>-From the second lost page.."
+198420000,Weak Giant Leonar,"<b><font color=@#FFCC33@>Krowaz’s first class Cursed Soul, </font> </b><b><font color=@#FFCC33@>Elder Lord of the witch gathering,  lord of black magic</font> <font color=@#3399FF@>..Do not tell us, for we already know.</font> <font color=@#3399FF@>With this power, the rules will change</font><font color=@#FF3300@> forever</font><font color=@#3399FF@> ....</font> </b>-From the second lost page.."
+198421000,Weak Giant Leonar,"<b><font color=@#FFCC33@>Krowaz’s first class Cursed Soul, </font> </b><b><font color=@#FFCC33@>Elder Lord of the witch gathering,  lord of black magic</font> <font color=@#3399FF@>..Do not tell us, for we already know.</font> <font color=@#3399FF@>With this power, the rules will change</font><font color=@#FF3300@> forever</font><font color=@#3399FF@> ....</font> </b>-From the second lost page.."
+198430000,Mean Leonar,"<b><font color=@#FFCC33@>Krowaz’s first class Cursed Soul, </font> </b><b><font color=@#FFCC33@>Elder Lord of the witch gathering,  lord of black magic</font> <font color=@#3399FF@>..Do not tell us, for we already know.</font> <font color=@#3399FF@>With this power, the rules will change</font><font color=@#FF3300@> forever</font><font color=@#3399FF@> ....</font> </b>-From the second lost page.."
+198431000,Mean Leonar,"<b><font color=@#FFCC33@>Krowaz’s first class Cursed Soul, </font> </b><b><font color=@#FFCC33@>Elder Lord of the witch gathering,  lord of black magic</font> <font color=@#3399FF@>..Do not tell us, for we already know.</font> <font color=@#3399FF@>With this power, the rules will change</font><font color=@#FF3300@> forever</font><font color=@#3399FF@> ....</font> </b>-From the second lost page.."
+198910000,Noah Undefeatable Leonar,<b><font color=@#FFCC33@>One of Marce Krowaz’s  first class NightMares</font>  </b><b><font color=@#FFCC33@>The Executive Director of the Witch Gathering.  The Supervisor of magic and black magic</font>  <font color=@#3399FF@>... We know even when you keep your mouth closed.</font>  <font color=@#3399FF@>With this power... We shall carry out the </font> <font color=@#FF3300@>judgment</font><font color=@#3399FF@>...</font> </b> -From the Second Lost Page...
+198920000,Noah Weak Giant Leonar,<b><font color=@#FFCC33@>One of Marce Krowaz’s  first class NightMares</font>  </b><b><font color=@#FFCC33@>The Executive Director of the Witch Gathering.  The Supervisor of magic and black magic</font>  <font color=@#3399FF@>... We know even when you keep your mouth closed.</font>  <font color=@#3399FF@>With this power... We shall carry out the </font> <font color=@#FF3300@>judgment</font><font color=@#3399FF@>...</font> </b> -From the Second Lost Page...
+198930000,Noah Mean Leonar,<b><font color=@#FFCC33@>One of Marce Krowaz’s  first class NightMares</font>  </b><b><font color=@#FFCC33@>The Executive Director of the Witch Gathering.  The Supervisor of magic and black magic</font>  <font color=@#3399FF@>... We know even when you keep your mouth closed.</font>  <font color=@#3399FF@>With this power... We shall carry out the </font> <font color=@#FF3300@>judgment</font><font color=@#3399FF@>...</font> </b> -From the Second Lost Page...
+199101000,Smite Hammer,Crafted by the monk  from the Logos Temple.
+199102000,Stone Splitter,Holy knights’ weapon made  to fight the evil soldiers of  Juraid Mountains.  Their souls and remains are  left in the mountains.
+199103000,Noah Juraid Mountain Attack,Holy knights’ weapon  Made to fight the evil soldiers  of Juraid Mountains. Their  souls and remains are left in  the mountains.
+199111000,Smite Hammer,<b><font color=@#CC9900@>The sole survivor of the Kalluga Valley and</font></b> <b><font color=@#CC9900@><u>the Logos Temple</u>’s monk </font></b> <b><font color=@#CC3300@>Smite’s</font><font color=@#CC9900@>hammer.</font></b>
+199112000,Stone Splitter,Holy knights’ weapon made to  fight the evil soldiers of Juraid Mountains.  Their souls and remains are  left in the mountains.
+199121000,Noah Smite Hammer,Crafted by the monk from the Logos Temple.
+199201000,Secular Fan,A fan whose purpose is  to make an evil Spirit cling to  the world when entering Nirvana.
+199301000,Holy Animor,Holy power
+199311000,Holy Animor,Holy power
+199321000,Noah Holy Enimer,Holy power
+201001000,Quilted Pauldron,The pauldron worn by  novice warriors.
+201002000,Leather Pants,The Pants worn by  novice warriors.
+201003000,Leather Cap,The hat worn by  novice warriors.
+201004000,Leather Gloves,The Gloves worn by  novice warriors.
+201005000,Leather Shoes,The shoes worn by  novice warriors.
+201011000,Novice Warrior’s Pauldron,Novice Warrior’s Armor
+201012000,Novice Warrior’s Pants,Novice Warrior’s Armor
+201013000,Novice Warrior’s Helmet,Novice Warrior’s Armor
+201014000,Novice Warrior’s Gauntlets,Novice Warrior’s Armor
+201015000,Novice Warrior’s Boots,Novice Warrior’s Armor
+202001000,Half Plate Pauldron,A piece of armor that  protects the vital points  to improve mobility.
+202002000,Half Plate Pants,A piece of armor that  protects the vital points  to improve mobility.
+202003000,Half Plate Helmet,A piece of armor that  protects the vital points  to improve mobility.
+202004000,Half Plate Gauntlets,A piece of armor that  protects the vital points  to improve mobility.
+202005000,Half Plate Boots,A piece of armor that  protects the vital points  to improve mobility.
+202013000,Helmet of Destruction,Armor of Destruction (Warriors)  - Cannot be repaired.
+202021000,Training warriors’ Pauldron,Training Warrior’s Armor
+202022000,Training warriors’ Pants,Training Warrior’s Armor
+202023000,Training warriors’ Helmet,Training Warrior’s Armor
+202024000,Training warriors’ Gauntlets,Training Warrior’s Armor
+202025000,Training warriors’ Boots,Training Warrior’s Armor
+203001000,Plate Armor Pauldron,A piece of plate armor  that is vulnerable in joints.
+203002000,Plate Armor Pants,A piece of plate armor  that is vulnerable in joints.
+203003000,Plate Armor Helmet,A piece of plate armor  that is vulnerable in joints.
+203004000,Plate Armor Gauntlets,A piece of plate armor  that is vulnerable in joints.
+203005000,Plate Armor Boots,A piece of plate armor  that is vulnerable in joints.
+203011000,Armor of Destruction,Armor of Destruction (Warriors)  - Cannot be repaired.
+203012000,Pants of Destruction,Armor of Destruction (Warriors)  - Cannot be repaired.
+203014000,Gauntlets of Destruction,Armor of Destruction (Warriors)  - Cannot be repaired.
+203015000,Boots of Destruction,Armor of Destruction (Warriors)  - Cannot be repaired.
+203021000,Talia skin,Talia Skin (Warriors)  - Cannot be repaired.
+203031000,Skilled Warrior’s Pauldron,Skilled Warrior’s Armor
+203032000,Skilled Warrior’s Pants,Skilled Warrior’s Armor
+203033000,Skilled Warrior’s Helmet,Skilled Warrior’s Armor
+203034000,Skilled Warrior’s Gauntlets,Skilled Warrior’s Armor
+203035000,Skilled Warrior’s Boots,Skilled Warrior’s Armor
+204001000,Full Plate Armor Pauldron,Strong plate armor made  in the middle ages with  reinforced joints.
+204002000,Full Plate Armor Pants,Strong plate armor made  in the middle ages with  reinforced joints.
+204003000,Full Plate Armor Helmet,Strong plate armor made  in the middle ages with  reinforced joints.

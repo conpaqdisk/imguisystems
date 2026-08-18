@@ -1,0 +1,25 @@
+ID,Nation,Job,LevelRange,Description
+101,Karus,Warrior,1-10,Newbie
+105,Karus,Warrior,10-60,Normal
+106,Karus,Warrior,60-80,Master
+102,Karus,Rogue,1-10,Newbie
+107,Karus,Rogue,10-60,Normal
+108,Karus,Rogue,60-80,Master
+104,Karus,Priest,1-10,Newbie
+111,Karus,Priest,10-60,Normal
+112,Karus,Priest,60-80,Master
+103,Karus,Mage,1-10,Newbie
+109,Karus,Mage,10-60,Normal
+110,Karus,Mage,60-80,Master
+201,El Morad,Warrior,1-10,Newbie
+205,El Morad,Warrior,10-60,Normal
+206,El Morad,Warrior,60-80,Master
+202,El Morad,Rogue,1-10,Newbie
+207,El Morad,Rogue,10-60,Normal
+208,El Morad,Rogue,60-80,Master
+204,El Morad,Priest,1-10,Newbie
+211,El Morad,Priest,10-60,Normal
+212,El Morad,Priest,60-80,Master
+203,El Morad,Mage,1-10,Newbie
+209,El Morad,Mage,10-60,Normal
+210,El Morad,Mage,60-80,Master

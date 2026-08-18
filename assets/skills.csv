@@ -1,0 +1,244 @@
+List,Name,ID
+RogueAttackSkillsList,Archery,3
+RogueAttackSkillsList,Through Shot,500
+RogueAttackSkillsList,Fire Arrow,505
+RogueAttackSkillsList,Poison Arrow,510
+RogueAttackSkillsList,Mutiple Shot,515
+RogueAttackSkillsList,Guided Arrow,520
+RogueAttackSkillsList,Perfect Shot,525
+RogueAttackSkillsList,Fire Shot,530
+RogueAttackSkillsList,Poison Shot,535
+RogueAttackSkillsList,Arc Shot,540
+RogueAttackSkillsList,Counter Strike,552
+RogueAttackSkillsList,Arrow Shower,555
+RogueAttackSkillsList,Shadow Shot,557
+RogueAttackSkillsList,Shadow Hunter,560
+RogueAttackSkillsList,Ice Shot,562
+RogueAttackSkillsList,Lighting Shot,566
+RogueAttackSkillsList,Dark Purseur,570
+RogueAttackSkillsList,Blow Arrow,575
+RogueAttackSkillsList,Blinding Strafe,580
+RogueAttackSkillsList,Power Shot,585
+RogueAsasAttackSkillsList,Stroke,1
+RogueAsasAttackSkillsList,Stab,5
+RogueAsasAttackSkillsList,Stab2,6
+RogueAsasAttackSkillsList,Jab,600
+RogueAsasAttackSkillsList,Blood Drain,610
+RogueAsasAttackSkillsList,Pierce,615
+RogueAsasAttackSkillsList,Shock,620
+RogueAsasAttackSkillsList,Illusion,630
+RogueAsasAttackSkillsList,Thrust,635
+RogueAsasAttackSkillsList,Cut,640
+RogueAsasAttackSkillsList,Stealth,645
+RogueAsasAttackSkillsList,Vampiric Touch,650
+RogueAsasAttackSkillsList,Spike,655
+RogueAsasAttackSkillsList,Throing Knife,656
+RogueAsasAttackSkillsList,Bloody Beast,670
+RogueSupportSkillsList,Sprint,1
+RogueSupportSkillsList,Swift,10
+RogueSupportSkillsList,Strength of wolf,30
+RogueSupportSkillsList,Hide,700
+RogueSupportSkillsList,Evade,710
+RogueSupportSkillsList,Cat's eye,715
+RogueSupportSkillsList,Light Feet,725
+RogueSupportSkillsList,Safety,730
+RogueSupportSkillsList,Lupine Eyes,735
+RogueSupportSkillsList,Scaled Skin,760
+RogueSupportSkillsList,Stealth,645
+RogueSupportSkillsList,Critical Point,685
+RogueSupportSkillsList,Magic Shield,802
+PriestBasicSkillsList,Stroke,1
+PriestBasicSkillsList,Light Strike,3
+PriestBasicSkillsList,Brightness,8
+PriestBasicSkillsList,Light Magic Attack,18
+PriestBasicSkillsList,Light Counter,24
+PriestBasicSkillsList,Critical Light,33
+PriestHealSkillsList,Minor Healing,500
+PriestHealSkillsList,Healing,509
+PriestHealSkillsList,Collision,511
+PriestHealSkillsList,Major Healing,518
+PriestHealSkillsList,Shuddering,520
+PriestHealSkillsList,Cure Curse,525
+PriestHealSkillsList,Great Healing,527
+PriestHealSkillsList,Blasting,529
+PriestHealSkillsList,Cure Disease,535
+PriestHealSkillsList,Massive Healing,536
+PriestHealSkillsList,Superior Healing,545
+PriestRestoreSkillsList,Light Restore,503
+PriestRestoreSkillsList,Restore,512
+PriestRestoreSkillsList,Major Restore,521
+PriestRestoreSkillsList,Great Restore,530
+PriestRestoreSkillsList,Massive Restore,539
+PriestRestoreSkillsList,Superior Restore,548
+PriestBuffSkillsList,Insensibility Skin,603
+PriestBuffSkillsList,Grace,606
+PriestBuffSkillsList,Resist all,609
+PriestBuffSkillsList,Insensibility shell,612
+PriestBuffSkillsList,Brave,615
+PriestBuffSkillsList,Insensibility armor,621
+PriestBuffSkillsList,Strong,624
+PriestBuffSkillsList,Bright Mind,627
+PriestBuffSkillsList,Wildness,629
+PriestBuffSkillsList,Insensibility shield,630
+PriestBuffSkillsList,Hardness,633
+PriestBuffSkillsList,Calm mind,636
+PriestBuffSkillsList,Insensibility barrier,639
+PriestBuffSkillsList,Mightness,642
+PriestBuffSkillsList,Fresh mind,645
+PriestBuffSkillsList,Insensibility protector,651
+PriestBuffSkillsList,Undying,654
+PriestBuffSkillsList,Heapness,655
+PriestBuffSkillsList,Greatness,656
+PriestBuffSkillsList,Massiveness,657
+PriestBuffSkillsList,Insensibility Peel,660
+PriestBuffSkillsList,Imposingness,670
+PriestBuffSkillsList,Bless of God,671
+PriestBuffSkillsList,Massive Binder,672
+PriestBuffSkillsList,Round Insensibility,673
+PriestBuffSkillsList,Insensibility Guard,674
+PriestBuffSkillsList,Superioris,675
+PriestBuffSkillsList,Counter Curse,676
+PriestSpiritSkillsList,Hades,751
+PriestAttackSkillsList,Malice,703
+PriestAttackSkillsList,Collapse,650
+PriestAttackSkillsList,Harsh,641
+PriestAttackSkillsList,Wrath,611
+PriestAttackSkillsList,Collission,511
+PriestAttackSkillsList,Shuddering,520
+PriestAttackSkillsList,Ruin,542
+PriestAttackSkillsList,Hellish,551
+PriestAttackSkillsList,Wield,620
+PriestAttackSkillsList,Judgment,802
+PriestAttackSkillsList,Helis,815
+MageFireSkillsList,Burn,503
+MageFireSkillsList,Resist Fire,506
+MageFireSkillsList,Blaze,509
+MageFireSkillsList,Fire Ball,515
+MageFireSkillsList,Ignition,518
+MageFireSkillsList,Endure Fire,524
+MageFireSkillsList,Fire Spear,527
+MageFireSkillsList,Fire Blast,535
+MageFireSkillsList,Hell Fire,539
+MageFireSkillsList,Fire Blade,542
+MageFireSkillsList,Specter Of Fire,543
+MageFireSkillsList,Inferno,545
+MageFireSkillsList,Immunity Fire,548
+MageFireSkillsList,Pillar Of Fire,551
+MageFireSkillsList,Fire Thorn,554
+MageFireSkillsList,Manes Of Fire,556
+MageFireSkillsList,Fire Impact,557
+MageFireSkillsList,Supernova,560
+MageFireSkillsList,Incineration,570
+MageFireSkillsList,Meteor Fall,571
+MageFireSkillsList,Fire Staff,572
+MageFireSkillsList,Fire Armor,573
+MageFireSkillsList,Vampiric Fire,574
+MageFireSkillsList,Igzination,575
+MageIceSkillsList,Freeze,603
+MageIceSkillsList,Resist cold,606
+MageIceSkillsList,Chill,609
+MageIceSkillsList,Frozen armor,612
+MageIceSkillsList,Ice arrow,615
+MageIceSkillsList,Solid,618
+MageIceSkillsList,Endure cold,624
+MageIceSkillsList,Frozen shell,630
+MageIceSkillsList,Ice burst,633
+MageIceSkillsList,Ice blast,635
+MageIceSkillsList,Frostbite,639
+MageIceSkillsList,Frozen Blade,642
+MageIceSkillsList,Specter of Ice,643
+MageIceSkillsList,Blizzard,645
+MageIceSkillsList,Immunity cold,648
+MageIceSkillsList,Ice comet,651
+MageIceSkillsList,Ice barrier,654
+MageIceSkillsList,Manes of Ice,656
+MageIceSkillsList,Ice Impact,657
+MageIceSkillsList,Frost Nova,660
+MageIceSkillsList,Prismatic,670
+MageIceSkillsList,Ice Storm,671
+MageIceSkillsList,Ice Staff,672
+MageIceSkillsList,Ice Armor,673
+MageIceSkillsList,Freezing Distance,674
+MageLightiningSkillsList,Charge,703
+MageLightiningSkillsList,Resist lightning,706
+MageLightiningSkillsList,Counter spell,709
+MageLightiningSkillsList,Lightning,715
+MageLightiningSkillsList,Static hemisphere,718
+MageLightiningSkillsList,Endure lightning,724
+MageLightiningSkillsList,Thunder,727
+MageLightiningSkillsList,Thunder burst,733
+MageLightiningSkillsList,Thunder blast,735
+MageLightiningSkillsList,Discharge,739
+MageLightiningSkillsList,Charged Blade,742
+MageLightiningSkillsList,Specter of Thunder,743
+MageLightiningSkillsList,Thundercloud,745
+MageLightiningSkillsList,Immunity Lightning,748
+MageLightiningSkillsList,Static Orb,751
+MageLightiningSkillsList,Static Thorn,754
+MageLightiningSkillsList,Manes of Thunder,756
+MageLightiningSkillsList,Thunder Impact,757
+MageLightiningSkillsList,Static Nova,760
+MageLightiningSkillsList,Light Shock,762
+MageLightiningSkillsList,Stun Cloud,770
+MageLightiningSkillsList,Chain lightning,771
+MageLightiningSkillsList,Light Staff,772
+MageLightiningSkillsList,Blink,774
+MageMasterSkillsList,Absolute Power,802
+MageMasterSkillsList,Guard Summon,826
+WarriorBasicSkillsList,Stroke,1
+WarriorBasicSkillsList,Slash,3
+WarriorBasicSkillsList,Crash,5
+WarriorBasicSkillsList,Piercing,9
+WarriorAttackSkillsList,Hash,500
+WarriorAttackSkillsList,Hoodwink,505
+WarriorAttackSkillsList,Shear,510
+WarriorAttackSkillsList,Pierce,515
+WarriorAttackSkillsList,Leg Cutting,520
+WarriorAttackSkillsList,Carving,525
+WarriorAttackSkillsList,Sever,530
+WarriorAttackSkillsList,Prick,535
+WarriorAttackSkillsList,Multiple Shock,540
+WarriorAttackSkillsList,Cleave,545
+WarriorAttackSkillsList,Mangling,550
+WarriorAttackSkillsList,Thrust,555
+WarriorAttackSkillsList,Sword Aura,557
+WarriorAttackSkillsList,Sword Dancing,560
+WarriorAttackSkillsList,Howling Sword,570
+WarriorAttackSkillsList,Blooding,575
+WarriorAttackSkillsList,Hell Blade,580
+WarriorDeffenceSkillsList,Hinder,605
+WarriorDeffenceSkillsList,Resist,610
+WarriorDeffenceSkillsList,Arrest,615
+WarriorDeffenceSkillsList,Endure,620
+WarriorDeffenceSkillsList,Binding,630
+WarriorDeffenceSkillsList,Bulwark,635
+WarriorDeffenceSkillsList,Immunity,640
+WarriorDeffenceSkillsList,Provoke,645
+WarriorDeffenceSkillsList,Descent,650
+WarriorDeffenceSkillsList,Evading,655
+WarriorDeffenceSkillsList,Sacrifice,660
+WarriorDeffenceSkillsList,Iron Skin,670
+WarriorPassionSkillsList,Pain Killer,710
+WarriorPassionSkillsList,Blade of Hate,725
+WarriorPassionSkillsList,Nimble Wind,735
+WarriorPassionSkillsList,Quake,760
+WarriorPassionSkillsList,Berserk Echo,770
+WarriorPassionSkillsList,Cry Echo,782
+WarriorMasterSkillsList,Scream,802
+WarriorMasterSkillsList,Exceed Break,815
+WarriorMasterSkillsList,Shock Stun,820
+WarriorSupportSkillsList,Sprint,2
+WarriorSupportSkillsList,Defense,7
+WarriorSupportSkillsList,Gain,705
+WarriorSupportSkillsList,Rise,710
+WarriorSupportSkillsList,Outrage,720
+WarriorSupportSkillsList,Restoration,730
+WarriorSupportSkillsList,Blaze Killer,731
+WarriorSupportSkillsList,Return to Life,740
+WarriorSupportSkillsList,Regeneration,750
+WarriorSupportSkillsList,Frenzy,755
+WarriorSupportSkillsList,Berserker,770
+WarriorSupportSkillsList,HP Booster,780
+WarriorSupportSkillsList,Battle Cry,783
+WarriorSupportSkillsList,Wall of Iron,675
+WarriorSupportSkillsList,Iron Body,680
